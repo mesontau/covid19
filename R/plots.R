@@ -56,9 +56,15 @@ plotTotalCases <- function(covid19Filtered
 
   q <- ggplot(covid19Filtered)
   q <- q + facet_wrap(country~.)
-  q <- q + geom_line(mapping = aes(y = detected, x = dateF), colour = "red")
-  q <- q + geom_line(mapping = aes(y = healed, x = dateF), colour = "green")
-  q <- q + geom_line(mapping = aes(y = deceased, x = dateF), colour = "black")
+  if(sum(covid19Filtered$detected, na.rm = T) > 0){
+    q <- q + geom_line(mapping = aes(y = detected, x = dateF), colour = "red")
+  }
+  if(sum(covid19Filtered$healed, na.rm = T) > 0){
+    q <- q + geom_line(mapping = aes(y = healed, x = dateF), colour = "green")
+  }
+  if(sum(covid19Filtered$deaceased, na.rm = T) > 0){
+    q <- q + geom_line(mapping = aes(y = deceased, x = dateF), colour = "black")
+  }
   q <- q + theme_bw()
   q <- q + theme(axis.text.x = element_text(angle = 55, hjust = 1))
   q <- q + labs(x = "date", y = "# cases")
