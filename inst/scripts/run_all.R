@@ -85,7 +85,7 @@ covid19::plotTimeToDouble( covid19SP
 
 
 
-covid19::plotTotalCases(covid19GE
+covid19::plotTotalCases(covid19SP
                         ,plotPath = file.path(plotsPath, "cv19_totalCases_Spain.png")
                         ,ncols = 5)
 
