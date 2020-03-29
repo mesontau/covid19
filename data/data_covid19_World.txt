@@ -4641,3 +4641,179 @@ Saint Kitts und Nevis	2	0	0	28.03.20
 Papua-Neuguinea	1	0	0	28.03.20
 St Vincent und die Grenadinen	1	0	0	28.03.20
 Osttimor	1	0	0	28.03.20
+USA	137245	0	2414	29.03.20
+Italien	97689	13030	10779	29.03.20
+China	82122	75582	3304	29.03.20
+Spanien	80031	14709	6802	29.03.20
+Deutschland	58655	9291	456	29.03.20
+Frankreich	40704	7226	2609	29.03.20
+Iran	38309	12391	2640	29.03.20
+Großbritannien	19772	151	1231	29.03.20
+Schweiz	14829	1595	300	29.03.20
+Niederlande	10930	253	772	29.03.20
+Belgien	10836	1359	431	29.03.20
+Südkorea	9583	5033	152	29.03.20
+Türkei	9217	105	131	29.03.20
+Österreich	8743	479	86	29.03.20
+Kanada	6230	0	63	29.03.20
+Portugal	5962	43	119	29.03.20
+Norwegen	4268	7	25	29.03.20
+Brasilien	4256	6	136	29.03.20
+Israel	4247	132	15	29.03.20
+Australien	3980	244	16	29.03.20
+Schweden	3700	16	110	29.03.20
+Tschechien	2775	11	16	29.03.20
+Irland	2615	5	46	29.03.20
+Dänemark	2564	73	72	29.03.20
+Malaysia	2470	388	35	29.03.20
+Chile	2139	75	7	29.03.20
+Luxemburg	1950	40	21	29.03.20
+Ecuador	1890	3	57	29.03.20
+Japan	1866	424	54	29.03.20
+Polen	1862	7	22	29.03.20
+Rumänien	1815	206	43	29.03.20
+Pakistan	1597	29	14	29.03.20
+Russland	1534	64	8	29.03.20
+Philippinen	1418	42	71	29.03.20
+Thailand	1388	97	7	29.03.20
+Saudiarabien	1299	66	8	29.03.20
+Indonesien	1285	64	114	29.03.20
+Südafrika	1280	31	2	29.03.20
+Finnland	1240	10	11	29.03.20
+Griechenland	1156	52	38	29.03.20
+Indien	1024	95	27	29.03.20
+Island	1020	135	2	29.03.20
+Panama	901	4	17	29.03.20
+Dominikanische Republik	859	3	39	29.03.20
+Peru	852	16	18	29.03.20
+Mexiko	848	4	16	29.03.20
+Singapur	844	212	3	29.03.20
+Argentinien	745	72	19	29.03.20
+Serbien	741	0	13	29.03.20
+Slowenien	730	10	11	29.03.20
+Kroatien	713	52	6	29.03.20
+Kolumbien	702	10	10	29.03.20
+Estland	679	20	3	29.03.20
+Katar	634	48	1	29.03.20
+Ägypten	609	132	40	29.03.20
+Vereinigte Arabische Emirate	570	58	3	29.03.20
+Irak	547	143	42	29.03.20
+Neuseeland	514	56	1	29.03.20
+Algerien	511	31	31	29.03.20
+Bahrain	499	272	4	29.03.20
+Marokko	479	13	26	29.03.20
+Litauen	460	1	7	29.03.20
+Libanon	438	30	10	29.03.20
+Armenien	424	30	3	29.03.20
+Ukraine	418	5	9	29.03.20
+Ungarn	408	34	13	29.03.20
+Lettland	347	1	0	29.03.20
+Bulgarien	346	14	8	29.03.20
+Andorra	334	1	6	29.03.20
+Bosnien und Herzegowina	323	8	6	29.03.20
+Costa Rica	314	3	2	29.03.20
+Slowakei	314	2	0	29.03.20
+Tunesien	312	2	8	29.03.20
+Uruguay	304	0	1	29.03.20
+Taiwan	298	30	2	29.03.20
+Kasachstan	284	20	1	29.03.20
+Moldawien	263	2	2	29.03.20
+Jordanien	259	18	3	29.03.20
+Nordmazedonien	259	3	6	29.03.20
+Kuwait	255	67	0	29.03.20
+San Marino	224	6	22	29.03.20
+Burkina Faso	222	23	12	29.03.20
+Zypern	214	15	5	29.03.20
+Albanien	212	33	10	29.03.20
+Aserbaidschan	209	15	4	29.03.20
+Vietnam	188	25	0	29.03.20
+Oman	167	23	0	29.03.20
+Elfenbeinküste	165	4	1	29.03.20
+Ghana	152	2	5	29.03.20
+Malta	151	2	0	29.03.20
+Usbekistan	144	7	2	29.03.20
+Senegal	142	27	0	29.03.20
+Kuba	139	4	3	29.03.20
+Brunei	126	34	1	29.03.20
+Afghanistan	120	2	4	29.03.20
+Venezuela	119	39	2	29.03.20
+Sri Lanka	117	11	1	29.03.20
+Honduras	110	3	2	29.03.20
+West Bank and Gaza	108	18	1	29.03.20
+Mauritius	107	0	3	29.03.20
+Kambodscha	103	21	0	29.03.20
+Nigeria	97	3	1	29.03.20
+Belarus	94	32	0	29.03.20
+Kamerun	91	2	2	29.03.20
+Georgien	91	18	0	29.03.20
+Kosovo	91	1	1	29.03.20
+Montenegro	85	0	1	29.03.20
+Kirgisistan	84	0	0	29.03.20
+Bolivien	81	0	1	29.03.20
+Trinidad und Tobago	76	1	3	29.03.20
+Demokratische Republik Kongo	65	2	6	29.03.20
+Ruanda	60	0	0	29.03.20
+Liechtenstein	56	0	0	29.03.20
+Paraguay	56	1	3	29.03.20
+Kreuzfahrtschiffe und Sonstige	49	0	0	29.03.20
+Bangladesch	48	15	5	29.03.20
+Monaco	43	1	1	29.03.20
+Kenia	42	1	1	29.03.20
+Madagaskar	39	0	0	29.03.20
+Guatemala	34	10	1	29.03.20
+Uganda	33	0	0	29.03.20
+Jamaica	32	2	1	29.03.20
+Sambia	29	0	0	29.03.20
+Barbados	26	0	0	29.03.20
+Togo	25	1	1	29.03.20
+El Salvador	24	0	0	29.03.20
+Republik Kongo	19	0	0	29.03.20
+Äthiopien	19	1	0	29.03.20
+Djibouti	18	0	0	29.03.20
+Mali	18	0	1	29.03.20
+Niger	18	0	1	29.03.20
+Malediven	17	13	0	29.03.20
+Guinea	16	0	0	29.03.20
+Haiti	15	1	0	29.03.20
+Tansania	14	1	0	29.03.20
+Äquatorialguinea	12	0	0	29.03.20
+Eritrea	12	0	0	29.03.20
+Mongolei	12	0	0	29.03.20
+Bahamas	11	1	0	29.03.20
+Dominica	11	0	0	29.03.20
+Namibia	11	2	0	29.03.20
+Burma	10	0	0	29.03.20
+Eswatini	9	0	0	29.03.20
+Grenada	9	0	0	29.03.20
+Syrien	9	0	1	29.03.20
+Guyana	8	0	1	29.03.20
+Laos	8	0	0	29.03.20
+Libyen	8	0	0	29.03.20
+Mosambik	8	0	0	29.03.20
+Seychellen	8	0	0	29.03.20
+Suriname	8	0	0	29.03.20
+Angola	7	0	2	29.03.20
+Antigua und Barbuda	7	0	0	29.03.20
+Gabon	7	0	1	29.03.20
+Simbabwe	7	0	1	29.03.20
+Benin	6	0	0	29.03.20
+Kap Verde	6	0	1	29.03.20
+Vatikan	6	0	0	29.03.20
+Sudan	6	0	1	29.03.20
+Fidschi	5	0	0	29.03.20
+Mauretanien	5	0	0	29.03.20
+Nepal	5	1	0	29.03.20
+Bhutan	4	0	0	29.03.20
+Gambia	4	0	1	29.03.20
+Nicaragua	4	0	1	29.03.20
+St Lucia	4	1	0	29.03.20
+Zentralafrikanische Republik	3	0	0	29.03.20
+Tschad	3	0	0	29.03.20
+Liberia	3	0	0	29.03.20
+Somalia	3	0	0	29.03.20
+Belize	2	0	0	29.03.20
+Guinea-Bissau	2	0	0	29.03.20
+Saint Kitts und Nevis	2	0	0	29.03.20
+Papua-Neuguinea	1	0	0	29.03.20
+St Vincent und die Grenadinen	1	1	0	29.03.20
+Osttimor	1	0	0	29.03.20
