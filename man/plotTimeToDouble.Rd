@@ -5,7 +5,7 @@
 \title{plotTimeToDouble}
 \usage{
 plotTimeToDouble(covid19Filtered, plotPath, plotType = "smooth",
-  ylims = c(0, 20), ncols = 4)
+  plotCurve = c("detected", "deceased"), ylims = c(0, 20), ncols = 4)
 }
 \arguments{
 \item{covid19Filtered}{data.frame with (filtered) data}
@@ -13,6 +13,8 @@ plotTimeToDouble(covid19Filtered, plotPath, plotType = "smooth",
 \item{plotPath}{full path for storing the plot}
 
 \item{plotType}{type of plot to use. Options: c("line", "smooth")}
+
+\item{plotCurve}{Curve(s) to be plot. Options: c("detected", "deceased", "active)}
 
 \item{ylims}{vector with y-coordinate plot limits}
 

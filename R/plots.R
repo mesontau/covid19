@@ -5,6 +5,7 @@
 #' @param covid19Filtered data.frame with (filtered) data
 #' @param plotPath full path for storing the plot
 #' @param plotType type of plot to use. Options: c("line", "smooth")
+#' @param plotCurve Curve(s) to be plot. Options: c("detected", "deceased", "active)
 #' @param ylims vector with y-coordinate plot limits
 #' @param ncols number of columns to represent plot facets
 #'
@@ -13,6 +14,7 @@
 plotTimeToDouble <- function( covid19Filtered
                              ,plotPath
                              ,plotType = "smooth"
+                             ,plotCurve = c("detected", "deceased")
                              ,ylims = c(0,20)
                              ,ncols = 4){
 
@@ -20,12 +22,26 @@ plotTimeToDouble <- function( covid19Filtered
   p <- p + facet_wrap(country~., ncol = ncols)
 
   if("line" %in% plotType){
-    p <- p + geom_line(mapping = aes(y = timeToDouble.detected, x = dateF), colour = "red")
-    p <- p + geom_line(mapping = aes(y = timeToDouble.deceased, x = dateF), colour = "black")
+    if("detected" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = timeToDouble.detected, x = dateF), colour = "red")
+    }
+    if("deceased" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = timeToDouble.deceased, x = dateF), colour = "black")
+    }
+    if("active" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = timeToDouble.active, x = dateF), colour = "orange")
+    }
   }
   if("smooth" %in% plotType){
-    p <- p + geom_smooth(mapping = aes(y = timeToDouble.detected, x = dateF), colour = "red")
-    p <- p + geom_smooth(mapping = aes(y = timeToDouble.deceased, x = dateF), colour = "black")
+    if("detected" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = timeToDouble.detected, x = dateF), colour = "red")
+    }
+    if("deceased" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = timeToDouble.deceased, x = dateF), colour = "black")
+    }
+    if("active" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = timeToDouble.active, x = dateF), colour = "orange")
+    }
   }
 
   p <- p + theme_bw()

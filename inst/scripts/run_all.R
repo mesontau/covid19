@@ -21,7 +21,8 @@ covid19WFiltered <- covid19W %>%
 
 covid19::plotTimeToDouble( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_time2double_World.png")
-                           ,plotType = "smooth"
+                           ,plotType = c("smooth", "line")
+                           ,plotCurve = c("detected", "deceased")
                            ,ylims = c(0,20)
                            ,ncols = 5)
 
@@ -38,7 +39,8 @@ covid19GE <- readDataCovid(dataFile = fileGermany)
 
 covid19::plotTimeToDouble( covid19GE
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Germany.png")
-                           ,plotType = "smooth"
+                           ,plotType = c("smooth", "line")
+                           ,plotCurve = c("detected", "deceased")
                            ,ylims = c(0,20)
                            ,ncols = 4)
 
@@ -79,7 +81,8 @@ covid19SP$country <- unlist(countryDict[covid19SP$country])
 
 covid19::plotTimeToDouble( covid19SP
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Spain.png")
-                           ,plotType = "smooth"
+                           ,plotType = c("smooth", "line")
+                           ,plotCurve = c("detected", "deceased")
                            ,ylims = c(0,20)
                            ,ncols = 5)
 
