@@ -93,3 +93,10 @@ covid19::plotTotalCases(covid19SP
                         ,ncols = 5)
 
 
+# Germany <- covid19W %>% filter(country == "Deutschland")
+# Spain <- covid19W %>% filter(country == "Spanien")
+# Italy <- covid19W %>% filter(country == "Italien")
+# China <- covid19W %>% filter(country == "China")
+# UK <- covid19W %>% filter(country == "Großbritannien")
+#
+# unique(covid19W$country)
