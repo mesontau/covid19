@@ -55,6 +55,61 @@ plotTimeToDouble <- function( covid19Filtered
 }
 
 
+#' @title plotDeltaDetected
+#' @description plots the (daily) increase of cases
+#'
+#' @param covid19Filtered data.frame with (filtered) data
+#' @param plotPath full path for storing the plot
+#' @param plotType type of plot to use. Options: c("line", "smooth")
+#' @param plotCurve Curve(s) to be plot. Options: c("detected", "deceased", "active)
+#' @param ylims vector with y-coordinate plot limits
+#' @param ncols number of columns to represent plot facets
+#'
+#' @export
+#'
+plotDeltaDetected <- function( covid19Filtered
+                              ,plotPath
+                              ,plotType = "smooth"
+                              ,plotCurve = c("detected", "deceased")
+                              ,ylims = NA
+                              ,ncols = 4){
+
+  p <- ggplot(covid19Filtered)
+  p <- p + facet_wrap(country~., ncol = ncols)
+
+  if("line" %in% plotType){
+    if("detected" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = delta.detected, x = dateF), colour = "red")
+    }
+    if("deceased" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = delta.deceased, x = dateF), colour = "black")
+    }
+    if("active" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = delta.active, x = dateF), colour = "orange")
+    }
+  }
+  if("smooth" %in% plotType){
+    if("detected" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = delta.detected, x = dateF), colour = "red")
+    }
+    if("deceased" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = delta.deceased, x = dateF), colour = "black")
+    }
+    if("active" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = delta.active, x = dateF), colour = "orange")
+    }
+  }
+
+  p <- p + theme_bw()
+  p <- p + theme(axis.text.x = element_text(angle = 55, hjust = 1))
+  if(!is.na(ylims)){
+    p <- p + ylim(ylims)
+  }
+  p <- p + labs(x = "date", y = "delta cases", colour = "Parameter")
+
+  ggsave(filename = plotPath, plot = p)
+}
+
 #' @title plotTotalCases
 #' @description plots the total number of cases
 #'

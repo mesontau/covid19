@@ -22,8 +22,15 @@ covid19WFiltered <- covid19W %>%
 covid19::plotTimeToDouble( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_time2double_World.png")
                            ,plotType = c("smooth")
+                           ,plotCurve = c("detected", "deceased", "active")
+                           ,ylims = c(0,30)
+                           ,ncols = 5)
+
+covid19::plotDeltaDetected( covid19WFiltered
+                           ,plotPath = file.path(plotsPath, "cv19_deltaDetected_World.png")
+                           ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,20)
+                           ,ylims = c(0,10000)
                            ,ncols = 5)
 
 covid19::plotTotalCases(covid19WFiltered
@@ -44,6 +51,12 @@ covid19::plotTimeToDouble( covid19GE
                            ,ylims = c(0,20)
                            ,ncols = 4)
 
+covid19::plotDeltaDetected( covid19GE
+                           ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Germany.png")
+                           ,plotType = c("smooth")
+                           ,plotCurve = c("detected", "deceased")
+                           ,ylims = c(0,2000)
+                           ,ncols = 4)
 
 
 covid19::plotTotalCases(covid19GE
@@ -86,6 +99,12 @@ covid19::plotTimeToDouble( covid19SP
                            ,ylims = c(0,20)
                            ,ncols = 5)
 
+covid19::plotDeltaDetected( covid19SP
+                           ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Spain.png")
+                           ,plotType = c("smooth")
+                           ,plotCurve = c("detected", "deceased")
+                           # ,ylims = c(0,20)
+                           ,ncols = 5)
 
 
 covid19::plotTotalCases(covid19SP
