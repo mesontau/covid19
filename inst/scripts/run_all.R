@@ -29,8 +29,8 @@ covid19::plotTimeToDouble( covid19WFiltered
 covid19::plotDeltaDetected( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_World.png")
                            ,plotType = c("smooth")
-                           ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,10000)
+                           ,plotCurve = c("detected", "deceased", "active")
+                           ,ylims = c(0,8000)
                            ,ncols = 5)
 
 covid19::plotTotalCases(covid19WFiltered
@@ -110,6 +110,16 @@ covid19::plotDeltaDetected( covid19SP
 covid19::plotTotalCases(covid19SP
                         ,plotPath = file.path(plotsPath, "cv19_totalCases_Spain.png")
                         ,ncols = 5)
+
+Galicia <- covid19SP %>% filter(country == "Galicia")
+
+covid19::plotDeltaDetected( Galicia
+                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Galicia.png")
+                            ,plotType = c("smooth")
+                            ,plotCurve = c("detected", "deceased")
+                            # ,ylims = c(0,20)
+                            ,ncols = 1)
+
 
 
 # Germany <- covid19W %>% filter(country == "Deutschland")
