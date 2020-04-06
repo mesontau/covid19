@@ -37,6 +37,11 @@ covid19::plotTotalCases(covid19WFiltered
                         ,plotPath = file.path(plotsPath, "cv19_totalCases_World.png")
                         ,ncols = 5)
 
+covid19::plotNewCasesVsTotalCases(covid19WFiltered %>% filter(max.detected > 20000)
+                                  ,plotPath = file.path(plotsPath, "cv19_NewCasesVsTotalCases_World.png")
+                                  ,plotType = "smooth"
+                                  ,plotCurve = "detected")
+
 
 ## Germany
 
@@ -62,6 +67,12 @@ covid19::plotDeltaDetected( covid19GE
 covid19::plotTotalCases(covid19GE
                         ,plotPath = file.path(plotsPath, "cv19_totalCases_Germany.png")
                         ,ncols = 4)
+
+covid19::plotNewCasesVsTotalCases(covid19GE %>% filter(max.detected > 5000)
+                                  ,plotPath = file.path(plotsPath, "cv19_NewCasesVsTotalCases_Germany.png")
+                                  ,plotType = "smooth"
+                                  ,plotCurve = "detected")
+
 
 ## Spain
 
@@ -111,17 +122,19 @@ covid19::plotTotalCases(covid19SP
                         ,plotPath = file.path(plotsPath, "cv19_totalCases_Spain.png")
                         ,ncols = 5)
 
-Galicia <- covid19SP %>% filter(country == "Galicia")
 
-covid19::plotDeltaDetected( Galicia
-                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Galicia.png")
-                            ,plotType = c("smooth")
-                            ,plotCurve = c("detected", "deceased")
-                            # ,ylims = c(0,20)
-                            ,ncols = 1)
+covid19::plotNewCasesVsTotalCases(covid19SP %>% filter(max.detected > 5000)
+                                  ,plotPath = file.path(plotsPath, "cv19_NewCasesVsTotalCases_Spain.png")
+                                  ,plotType = "smooth"
+                                  ,plotCurve = "detected")
 
 
 
+
+
+
+
+Bremen <- covid19GE %>% filter(country == "Bremen")
 # Germany <- covid19W %>% filter(country == "Deutschland")
 # Spain <- covid19W %>% filter(country == "Spanien")
 # Italy <- covid19W %>% filter(country == "Italien")
@@ -129,3 +142,11 @@ covid19::plotDeltaDetected( Galicia
 # UK <- covid19W %>% filter(country == "Großbritannien")
 #
 # unique(covid19W$country)
+
+covid19::plotDeltaDetected( Bremen
+                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Bremen.png")
+                            ,plotType = c("smooth", "line")
+                            ,plotCurve = c("detected", "deceased")
+                            # ,ylims = c(0,20)
+                            ,ncols = 1)
+
