@@ -1,4 +1,56 @@
 
+#' @title plotNewCasesVsTotalCases
+#' @description plots new cases (daily) vs total cases in log scale
+#'
+#' @param covid19Filtered data.frame with (filtered) data
+#' @param plotPath full path for storing the plot
+#' @param plotType type of plot to use. Options: c("line", "smooth")
+#' @param plotCurve Curve to be plot (only one curve per plot!).
+#' Options: c("detected", "deceased", "active)
+#' @param xlims vector with x-coordinate plot limits
+#' @param ylims vector with y-coordinate plot limits
+#'
+#' @export
+#'
+plotNewCasesVsTotalCases <- function( covid19Filtered
+                                     ,plotPath
+                                     ,plotType = "smooth"
+                                     ,plotCurve = "detected"
+                                     ,xlims = NULL
+                                     ,ylims = NULL){
+
+
+  p <- ggplot(covid19Filtered, aes(colour=country))
+
+  if("line" %in% plotType){
+    if("detected" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = delta.detected, x = detected, colour = country))
+    }
+    if("deceased" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = delta.deceased, x = deceased))
+    }
+    if("active" %in% plotCurve){
+      p <- p + geom_line(mapping = aes(y = delta.active, x = active))
+    }
+  }
+  if("smooth" %in% plotType){
+    if("detected" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = delta.detected, x = detected, colour = country))
+    }
+    if("deceased" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = delta.deceased, x = deceased))
+    }
+    if("active" %in% plotCurve){
+      p <- p + geom_smooth(mapping = aes(y = delta.active, x = active))
+    }
+  }
+  p <- p + scale_x_log10(limits=xlims) + scale_y_log10(limits=ylims)
+
+  p <- p + theme_bw()
+
+  ggsave(filename = plotPath, plot = p)
+}
+
 #' @title plotTimeToDouble
 #' @description plots the time to double
 #'
