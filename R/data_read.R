@@ -13,9 +13,14 @@ readDataCovid <- function(dataFile, col_types = "ciiic"){
   covid19 <- read_tsv(dataFile, col_types = col_types)
 
   #Fix special characters
-  covid19$country <- gsub("\xa7", "ß", covid19$country)
-  covid19$country <- gsub("\x9f", "ü", covid19$country)
+  covid19$country <- gsub("\x80", "Ä", covid19$country)
+  covid19$country <- gsub("\x8a", "ä", covid19$country)
   covid19$country <- gsub("\x85", "Ö", covid19$country)
+  covid19$country <- gsub("\x9a", "ö", covid19$country)
+  covid19$country <- gsub("\x9f", "ü", covid19$country)
+  covid19$country <- gsub("\xa7", "ß", covid19$country)
+  covid19$country <- gsub("\x8d", "ç", covid19$country)
+  covid19$country <- gsub("\x8e", "é", covid19$country)
 
   #Dates in lubridate format
   covid19$dateF <- lubridate::parse_date_time(gsub("\\.", "-", covid19$date), "dmy" )
