@@ -34,7 +34,7 @@ readDataCovid <- function(dataFile, col_types = "ciiic"){
                      ,delta.healed   = order_by(dateF, healed - lag(healed))
                      ,delta.deceased = order_by(dateF, deceased - lag(deceased)))
 
-  #Remove days were no update was done
+  #Remove days when no update was done
   covid19 <- covid19 %>% filter(delta.detected > 0 | delta.healed > 0 | delta.deceased > 0)
 
   covid19 <- covid19 %>% group_by(country) %>%

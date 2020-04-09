@@ -30,7 +30,7 @@ covid19::plotDeltaDetected( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_World.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased", "active")
-                           ,ylims = c(0,8000)
+                           # ,ylims = c(-8000,8000)
                            ,ncols = 5)
 
 covid19::plotTotalCases(covid19WFiltered
@@ -136,13 +136,28 @@ covid19::plotNewCasesVsTotalCases(covid19SP %>% filter(max.detected > 5000)
 
 
 Bremen <- covid19GE %>% filter(country == "Bremen")
-# Germany <- covid19W %>% filter(country == "Deutschland")
-# Spain <- covid19W %>% filter(country == "Spanien")
-# Italy <- covid19W %>% filter(country == "Italien")
-# China <- covid19W %>% filter(country == "China")
-# UK <- covid19W %>% filter(country == "Großbritannien")
+Germany <- covid19W %>% filter(country == "Deutschland")
+Spain <- covid19W %>% filter(country == "Spanien")
+Italy <- covid19W %>% filter(country == "Italien")
+China <- covid19W %>% filter(country == "China")
+UK <- covid19W %>% filter(country == "Großbritannien")
 #
 # unique(covid19W$country)
+
+indivCountries <- list( "Bremen"  = Bremen
+                       ,"Germany" = Germany
+                       ,"Spain"   = Spain
+                       ,"Italy"   = Italy
+                       ,"China"   = China
+                       ,"UK"      = UK)
+countryName = "Bremen"
+lapply(names(indivCountries), function(countryName){
+  covid19::plotDeltaDetected( indivCountries[[countryName]]
+                              ,plotPath = file.path(plotsPath, paste0("cv19_deltaDetected_", countryName, ".png"))
+                              ,plotType = c("smooth", "line")
+                              ,plotCurve = c("detected", "deceased", "active")
+                              ,ncols = 1)
+})
 
 covid19::plotDeltaDetected( Bremen
                             ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Bremen.png")
