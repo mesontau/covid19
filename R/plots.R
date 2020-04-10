@@ -157,7 +157,7 @@ plotDeltaDetected <- function( covid19Filtered
   if(!is.na(ylims)){
     p <- p + ylim(ylims)
   }
-  p <- p + labs(x = "date", y = "delta cases", colour = "Parameter")
+  p <- p + labs(x = "date", y = "daily increase of cases", colour = "Parameter")
 
   ggsave(filename = plotPath, plot = p)
 }

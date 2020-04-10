@@ -7104,3 +7104,219 @@ Papua-Neuguinea	2	0	0	09.04.20
 "Bonaire, Sint Eustatius und Saba"	2	0	0	09.04.20
 Osttimor	1	0	0	09.04.20
 Saint-Pierre und Miquelon	1	0	0	09.04.20
+USA	485926	27612	17973	10.04.20
+Spanien	157053	55668	15970	10.04.20
+Italien	147577	30455	18849	10.04.20
+Deutschland	120157	55980	2688	10.04.20
+Frankreich	90676	24932	13197	10.04.20
+China	81907	77472	3336	10.04.20
+Großbritannien	73758	135	8958	10.04.20
+Iran	68192	35465	4232	10.04.20
+Türkei	47029	2423	1006	10.04.20
+Belgien	26667	5568	3019	10.04.20
+Schweiz	24551	11100	1002	10.04.20
+Niederlande	23097	250	2511	10.04.20
+Kanada	21230	5580	531	10.04.20
+Brasilien	19638	173	1057	10.04.20
+Portugal	15472	233	435	10.04.20
+Österreich	13555	6064	319	10.04.20
+Russland	11917	795	94	10.04.20
+Südkorea	10450	7117	208	10.04.20
+Israel	10095	1061	95	10.04.20
+Schweden	9685	381	870	10.04.20
+Irland	8089	25	287	10.04.20
+Indien	7598	774	246	10.04.20
+Ecuador	7161	368	297	10.04.20
+Chile	6501	1571	65	10.04.20
+Norwegen	6298	32	113	10.04.20
+Australien	6204	1472	54	10.04.20
+Polen	5955	318	181	10.04.20
+Peru	5897	1569	169	10.04.20
+Dänemark	5819	1773	247	10.04.20
+Tschechien	5674	346	119	10.04.20
+Japan	5530	685	99	10.04.20
+Rumänien	5467	729	270	10.04.20
+Pakistan	4695	727	66	10.04.20
+Malaysia	4346	1830	70	10.04.20
+Philippinen	4195	140	221	10.04.20
+Saudiarabien	3651	685	47	10.04.20
+Indonesien	3512	282	306	10.04.20
+Mexiko	3441	633	194	10.04.20
+Vereinigte Arabische Emirate	3360	418	16	10.04.20
+Luxemburg	3223	500	54	10.04.20
+Serbien	3105	0	71	10.04.20
+Finnland	2769	300	48	10.04.20
+Panama	2752	16	66	10.04.20
+Dominikanische Republik	2620	98	126	10.04.20
+Katar	2512	227	6	10.04.20
+Thailand	2473	1013	33	10.04.20
+Kolumbien	2223	174	69	10.04.20
+Ukraine	2203	61	69	10.04.20
+Singapur	2108	492	7	10.04.20
+Griechenland	2011	269	92	10.04.20
+Südafrika	2003	410	24	10.04.20
+Belarus	1981	169	19	10.04.20
+Argentinien	1894	375	81	10.04.20
+Ägypten	1794	384	135	10.04.20
+Algerien	1761	405	256	10.04.20
+Island	1675	751	7	10.04.20
+Kroatien	1495	231	21	10.04.20
+Marokko	1448	122	107	10.04.20
+Moldawien	1438	56	29	10.04.20
+Neuseeland	1283	373	2	10.04.20
+Irak	1279	550	70	10.04.20
+Estland	1258	93	24	10.04.20
+Ungarn	1190	112	77	10.04.20
+Slowenien	1160	137	45	10.04.20
+Litauen	999	54	22	10.04.20
+Kuwait	993	123	1	10.04.20
+Aserbaidschan	991	159	10	10.04.20
+Hong Kong	989	309	4	10.04.20
+Armenien	937	149	12	10.04.20
+Bahrain	925	539	6	10.04.20
+Bosnien und Herzegowina	901	129	36	10.04.20
+Kreuzfahrtschiffe	886	619	17	10.04.20
+Kamerun	820	98	12	10.04.20
+Kasachstan	812	64	10	10.04.20
+Puerto Rico	725	0	39	10.04.20
+Slowakei	715	23	2	10.04.20
+Nordmazedonien	711	41	32	10.04.20
+Tunesien	671	25	25	10.04.20
+Bulgarien	635	54	25	10.04.20
+Usbekistan	624	42	3	10.04.20
+Lettland	612	16	3	10.04.20
+Libanon	609	76	20	10.04.20
+Andorra	601	71	26	10.04.20
+Zypern	595	58	10	10.04.20
+Kuba	564	51	15	10.04.20
+Costa Rica	558	42	3	10.04.20
+Afghanistan	521	32	15	10.04.20
+Oman	484	109	3	10.04.20
+Uruguay	473	206	7	10.04.20
+Elfenbeinküste	444	52	3	10.04.20
+Burkina Faso	443	146	24	10.04.20
+Bangladesch	424	33	27	10.04.20
+Albanien	416	182	23	10.04.20
+Niger	410	40	11	10.04.20
+Kanalinseln	398	40	9	10.04.20
+Honduras	382	7	23	10.04.20
+Réunion	382	40	0	10.04.20
+Taiwan	382	91	6	10.04.20
+Ghana	378	4	6	10.04.20
+Jordanien	372	170	7	10.04.20
+Malta	350	16	2	10.04.20
+San Marino	344	50	34	10.04.20
+Mauritius	318	23	9	10.04.20
+Kirgisistan	298	35	5	10.04.20
+Nigeria	288	51	7	10.04.20
+Bolivien	268	2	19	10.04.20
+Palästinensische Autonomiegebiete	267	45	2	10.04.20
+Senegal	265	137	2	10.04.20
+Vietnam	257	144	0	10.04.20
+Montenegro	255	4	2	10.04.20
+Georgien	234	54	3	10.04.20
+Demokratische Republik Kongo	215	13	20	10.04.20
+Isle of Man	201	103	1	10.04.20
+Guinea	194	11	0	10.04.20
+Mayotte	191	50	2	10.04.20
+Sri Lanka	190	54	7	10.04.20
+Kenia	189	22	7	10.04.20
+Färöer	184	145	0	10.04.20
+Kosovo	184	30	5	10.04.20
+Venezuela	171	84	9	10.04.20
+Martinique	154	50	6	10.04.20
+Dschibuti	150	36	1	10.04.20
+Guadeloupe	143	67	8	10.04.20
+Brunei	136	99	1	10.04.20
+Guam	130	0	4	10.04.20
+Paraguay	129	18	6	10.04.20
+Gibraltar	127	69	0	10.04.20
+Guatemala	126	17	3	10.04.20
+Kambodscha	119	72	0	10.04.20
+El Salvador	117	15	6	10.04.20
+Ruanda	113	7	0	10.04.20
+Trinidad und Tobago	109	1	8	10.04.20
+Madagaskar	93	11	0	10.04.20
+Monaco	90	5	1	10.04.20
+Mali	87	22	7	10.04.20
+Aruba	86	27	0	10.04.20
+Französisch-Guyana	83	43	0	10.04.20
+Liechtenstein	79	55	1	10.04.20
+Togo	76	25	3	10.04.20
+Barbados	67	11	4	10.04.20
+Äthiopien	65	4	3	10.04.20
+Jamaika	63	13	4	10.04.20
+Republik Kongo	60	5	5	10.04.20
+Uganda	53	0	0	10.04.20
+Französisch Polynesien	51	0	0	10.04.20
+Sint Maarten	50	3	8	10.04.20
+Amerikanische Jungferninseln	50	0	1	10.04.20
+Bermuda	48	25	4	10.04.20
+Cayman-Inseln	45	6	1	10.04.20
+Macau	45	10	0	10.04.20
+Gabon	44	1	1	10.04.20
+Bahamas	41	5	8	10.04.20
+Sambia	40	25	2	10.04.20
+Guyana	37	8	6	10.04.20
+Liberia	37	3	5	10.04.20
+Guinea-Bissau	36	0	0	10.04.20
+Benin	35	5	1	10.04.20
+Eritrea	34	0	0	10.04.20
+Saint Martin	32	11	2	10.04.20
+Tansania	32	5	3	10.04.20
+Haiti	31	0	2	10.04.20
+Myanmar	27	2	3	10.04.20
+Libyen	24	8	1	10.04.20
+Somalia	21	1	1	10.04.20
+Mosambik	20	2	0	10.04.20
+Antigua und Barbuda	19	0	2	10.04.20
+Angola	19	2	2	10.04.20
+Malediven	19	13	0	10.04.20
+Syrien	19	4	2	10.04.20
+Äquatorialguinea	18	3	0	10.04.20
+New Caledonia	18	1	0	10.04.20
+Dominica	16	5	0	10.04.20
+Fidschi	16	0	0	10.04.20
+Mongolei	16	4	0	10.04.20
+Namibia	16	3	0	10.04.20
+Laos	16	0	0	10.04.20
+St Lucia	15	1	0	10.04.20
+Sudan	15	2	2	10.04.20
+Curaçao	14	7	1	10.04.20
+Botswana	13	0	1	10.04.20
+Grenada	12	0	0	10.04.20
+Eswatini	12	7	0	10.04.20
+St Vincent und die Grenadinen	12	1	0	10.04.20
+Grönland	11	11	0	10.04.20
+Seychellen	11	0	0	10.04.20
+Tschad	11	2	0	10.04.20
+Simbabwe	11	0	3	10.04.20
+Nördliche Marianen	11	0	2	10.04.20
+St Kitts und Nevis	11	0	0	10.04.20
+Belize	10	0	2	10.04.20
+Suriname	10	4	1	10.04.20
+Montserrat	9	0	0	10.04.20
+Nepal	9	1	0	10.04.20
+Malawi	9	0	1	10.04.20
+Zentralafrikanische Republik	8	0	0	10.04.20
+Vatikan	8	2	0	10.04.20
+Turks- und Caicosinseln	8	0	1	10.04.20
+Sierra Leone	8	0	0	10.04.20
+Kap Verde	7	1	1	10.04.20
+Mauretanien	7	2	1	10.04.20
+Nicaragua	7	0	1	10.04.20
+Saint Barthélemy	6	1	0	10.04.20
+Bhutan	5	2	0	10.04.20
+Falklandinseln (Malwinen)	5	1	0	10.04.20
+Gambia	4	2	1	10.04.20
+Südsudan	4	0	0	10.04.20
+Western Sahara	4	0	0	10.04.20
+São Tomé und Príncipe	4	0	0	10.04.20
+Anguilla	3	0	0	10.04.20
+Britische Jungferninseln	3	0	0	10.04.20
+Burundi	3	0	0	10.04.20
+Papua-Neuguinea	2	0	0	10.04.20
+Osttimor	2	1	0	10.04.20
+"Bonaire, Sint Eustatius und Saba"	2	0	0	10.04.20
+Saint-Pierre und Miquelon	1	0	0	10.04.20
+Jemen	1	0	0	10.04.20

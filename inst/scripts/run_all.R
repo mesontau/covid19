@@ -15,9 +15,9 @@ covid19W  <- readDataCovid(dataFile = fileWorld)
 
 
 covid19WFiltered <- covid19W %>%
-  filter(max.detected > maxDetected |
+  filter((max.detected > maxDetected |
            country == "Schweden" |
-           country == "Kuba")
+           country == "Kuba") & country != "USA")
 
 covid19::plotTimeToDouble( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_time2double_World.png")
@@ -141,6 +141,7 @@ Spain <- covid19W %>% filter(country == "Spanien")
 Italy <- covid19W %>% filter(country == "Italien")
 China <- covid19W %>% filter(country == "China")
 UK <- covid19W %>% filter(country == "Großbritannien")
+USA <- covid19W %>% filter(country == "USA")
 #
 # unique(covid19W$country)
 
@@ -161,6 +162,15 @@ lapply(names(indivCountries), function(countryName){
 
 covid19::plotDeltaDetected( Bremen
                             ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Bremen.png")
+                            ,plotType = c("smooth", "line")
+                            ,plotCurve = c("detected", "deceased")
+                            # ,ylims = c(0,20)
+                            ,ncols = 1)
+
+
+
+covid19::plotDeltaDetected( USA
+                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_USA.png")
                             ,plotType = c("smooth", "line")
                             ,plotCurve = c("detected", "deceased")
                             # ,ylims = c(0,20)
