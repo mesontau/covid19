@@ -1,7 +1,7 @@
 library(covid19)
 
 
-maxDetected = 5000
+maxDetected = 10000
 
 dataPath = "data"
 plotsPath = file.path("data", "plots")
@@ -30,10 +30,10 @@ covid19::plotDeltaDetected( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_World.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased", "active")
-                           # ,ylims = c(-8000,8000)
+                           ,ylims = c(-3000,5000)
                            ,ncols = 5)
 
-covid19::plotTotalCases(covid19WFiltered
+covid19::plotTotalCases(covid19Filtered = covid19WFiltered
                         ,plotPath = file.path(plotsPath, "cv19_totalCases_World.png")
                         ,ncols = 5)
 
