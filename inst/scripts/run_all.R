@@ -23,7 +23,7 @@ covid19::plotTimeToDouble( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_time2double_World.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased", "active")
-                           ,ylims = c(0,30)
+                           ,ylims = c(0,40)
                            ,ncols = 5)
 
 covid19::plotDeltaDetected( covid19WFiltered
@@ -53,7 +53,7 @@ covid19::plotTimeToDouble( covid19GE
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Germany.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,20)
+                           ,ylims = c(0,30)
                            ,ncols = 4)
 
 covid19::plotDeltaDetected( covid19GE
@@ -108,7 +108,7 @@ covid19::plotTimeToDouble( covid19SP
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Spain.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,20)
+                           ,ylims = c(0,30)
                            ,ncols = 5)
 
 covid19::plotDeltaDetected( covid19SP
