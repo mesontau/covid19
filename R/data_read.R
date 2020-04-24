@@ -10,7 +10,7 @@
 #'
 readDataCovid <- function(dataFile, col_types = "ciiic"){
 
-  covid19 <- read_tsv(dataFile, col_types = col_types)
+  covid19 <- read_tsv(dataFile, col_types = col_types, na = "-")
 
   #Fix special characters
   covid19$country <- gsub("\x80", "Ä", covid19$country)
@@ -22,6 +22,8 @@ readDataCovid <- function(dataFile, col_types = "ciiic"){
   covid19$country <- gsub("\x8d", "ç", covid19$country)
   covid19$country <- gsub("\x8e", "é", covid19$country)
 
+
+
   #Dates in lubridate format
   covid19$dateF <- lubridate::parse_date_time(gsub("\\.", "-", covid19$date), "dmy" )
   covid19$weekday <- weekdays(covid19$dateF)
@@ -29,7 +31,7 @@ readDataCovid <- function(dataFile, col_types = "ciiic"){
   covid19 <- covid19 %>% group_by(country) %>%
               arrange(dateF) %>%
               mutate(epidemy.days = n()
-                     ,max.detected = max(detected)
+                     ,max.detected = max(detected, na.rm = T)
                      ,delta.detected = order_by(dateF, detected - lag(detected))
                      ,delta.healed   = order_by(dateF, healed - lag(healed))
                      ,delta.deceased = order_by(dateF, deceased - lag(deceased)))
