@@ -124,7 +124,7 @@ covid19::plotTotalCases(covid19SP
                         ,ncols = 5)
 
 
-covid19::plotNewCasesVsTotalCases(covid19SP %>% filter(max.detected > 5000)
+covid19::plotNewCasesVsTotalCases(covid19Filtered =  covid19SP %>% filter(max.detected > 5000)
                                   ,plotPath = file.path(plotsPath, "cv19_NewCasesVsTotalCases_Spain.png")
                                   ,plotType = "smooth"
                                   ,plotCurve = "detected")
