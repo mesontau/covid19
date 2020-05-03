@@ -23,7 +23,7 @@ covid19::plotTimeToDouble( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_time2double_World.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased", "active")
-                           ,ylims = c(0,40)
+                           ,ylims = c(0,50)
                            ,ncols = 5)
 
 covid19::plotDeltaDetected( covid19WFiltered
@@ -53,7 +53,7 @@ covid19::plotTimeToDouble( covid19GE
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Germany.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,30)
+                           ,ylims = c(0,50)
                            ,ncols = 4)
 
 covid19::plotDeltaDetected( covid19GE
@@ -108,7 +108,7 @@ covid19::plotTimeToDouble( covid19SP
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Spain.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,30)
+                           ,ylims = c(0,50)
                            ,ncols = 5)
 
 covid19::plotDeltaDetected( covid19SP
@@ -142,15 +142,19 @@ Italy <- covid19W %>% filter(country == "Italien")
 China <- covid19W %>% filter(country == "China")
 UK <- covid19W %>% filter(country == "Großbritannien")
 USA <- covid19W %>% filter(country == "USA")
-#
+Austria <- covid19W %>% filter(country == "Österreich")
+
 # unique(covid19W$country)
 
 indivCountries <- list( "Bremen"  = Bremen
                        ,"Germany" = Germany
+                       ,"USA"     = USA
                        ,"Spain"   = Spain
                        ,"Italy"   = Italy
                        ,"China"   = China
-                       ,"UK"      = UK)
+                       ,"UK"      = UK
+                       ,"Austria" = Austria)
+
 countryName = "Bremen"
 lapply(names(indivCountries), function(countryName){
   covid19::plotDeltaDetected( indivCountries[[countryName]]
@@ -160,19 +164,21 @@ lapply(names(indivCountries), function(countryName){
                               ,ncols = 1)
 })
 
-covid19::plotDeltaDetected( Bremen
-                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Bremen.png")
-                            ,plotType = c("smooth", "line")
-                            ,plotCurve = c("detected", "deceased")
-                            # ,ylims = c(0,20)
-                            ,ncols = 1)
 
-
-
-covid19::plotDeltaDetected( USA
-                            ,plotPath = file.path(plotsPath, "cv19_deltaDetected_USA.png")
-                            ,plotType = c("smooth", "line")
-                            ,plotCurve = c("detected", "deceased")
-                            # ,ylims = c(0,20)
-                            ,ncols = 1)
-
+#
+# covid19::plotDeltaDetected( Bremen
+#                             ,plotPath = file.path(plotsPath, "cv19_deltaDetected_Bremen.png")
+#                             ,plotType = c("smooth", "line")
+#                             ,plotCurve = c("detected", "deceased")
+#                             # ,ylims = c(0,20)
+#                             ,ncols = 1)
+#
+#
+#
+# covid19::plotDeltaDetected( USA
+#                             ,plotPath = file.path(plotsPath, "cv19_deltaDetected_USA.png")
+#                             ,plotType = c("smooth", "line")
+#                             ,plotCurve = c("detected", "deceased")
+#                             # ,ylims = c(0,20)
+#                             ,ncols = 1)
+#
