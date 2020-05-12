@@ -12296,3 +12296,1747 @@ Westsahara	6	5	-	03.05.20
 Anguilla	3	3	-	03.05.20
 Komoren	3	-	-	03.05.20
 Saint-Pierre und Miquelon	1	-	-	03.05.20
+USA	1175564	187180	68331	04.05.20
+Spanien	218011	121343	25428	04.05.20
+Italien	211938	82879	29079	04.05.20
+Großbritannien	190584	-	28734	04.05.20
+Deutschland	165914	132700	6935	04.05.20
+Russland	145268	18095	1356	04.05.20
+Frankreich	131863	51371	25201	04.05.20
+Türkei	127659	68166	3461	04.05.20
+Brasilien	105222	42991	7288	04.05.20
+Iran	98647	79379	6277	04.05.20
+China	82880	77770	4633	04.05.20
+Kanada	61800	25760	3983	04.05.20
+Belgien	50267	12378	7924	04.05.20
+Peru	47372	14427	1344	04.05.20
+Indien	46437	12847	1566	04.05.20
+Niederlande	40770	-	5082	04.05.20
+Ecuador	31881	3433	1569	04.05.20
+Schweiz	29981	25200	1784	04.05.20
+Saudiarabien	28656	4476	191	04.05.20
+Portugal	25524	1712	1063	04.05.20
+Mexiko	23471	13447	2154	04.05.20
+Schweden	22721	4074	2769	04.05.20
+Irland	21772	13386	1319	04.05.20
+Pakistan	20941	5635	476	04.05.20
+Chile	20643	10415	270	04.05.20
+Singapur	18778	1457	18	04.05.20
+Belarus	17489	3259	103	04.05.20
+Israel	16246	10064	235	04.05.20
+Katar	16191	1810	12	04.05.20
+Österreich	15621	13316	600	04.05.20
+Japan	14877	3981	487	04.05.20
+Vereinigte Arabische Emirate	14730	2966	137	04.05.20
+Polen	14006	4095	698	04.05.20
+Rumänien	13512	5269	818	04.05.20
+Ukraine	12331	1619	303	04.05.20
+Indonesien	11587	1954	864	04.05.20
+Südkorea	10801	9217	252	04.05.20
+Bangladesch	10143	1209	182	04.05.20
+Dänemark	9670	7088	493	04.05.20
+Serbien	9557	1574	197	04.05.20
+Philippinen	9485	1315	623	04.05.20
+Dominikanische Republik	8235	1771	346	04.05.20
+Norwegen	7884	32	214	04.05.20
+Tschechien	7799	3786	251	04.05.20
+Kolumbien	7668	1722	340	04.05.20
+Südafrika	7220	2746	138	04.05.20
+Panama	7197	641	200	04.05.20
+Australien	6823	5863	96	04.05.20
+Ägypten	6813	1632	436	04.05.20
+Malaysia	6353	4484	105	04.05.20
+Finnland	5327	3500	240	04.05.20
+Kuwait	5278	1947	40	04.05.20
+Marokko	5053	1653	179	04.05.20
+Argentinien	4783	1442	249	04.05.20
+Algerien	4648	1998	465	04.05.20
+Moldawien	4248	1423	132	04.05.20
+Kasachstan	4049	1173	29	04.05.20
+Luxemburg	3828	3405	96	04.05.20
+Bahrain	3533	1744	8	04.05.20
+Ungarn	3035	630	351	04.05.20
+Thailand	2987	2740	54	04.05.20
+Afghanistan	2894	397	90	04.05.20
+Ghana	2719	294	18	04.05.20
+Oman	2637	816	12	04.05.20
+Griechenland	2632	1374	146	04.05.20
+Nigeria	2558	400	87	04.05.20
+Armenien	2507	1071	39	04.05.20
+Irak	2346	1544	98	04.05.20
+Usbekistan	2189	1405	10	04.05.20
+Kroatien	2101	1522	80	04.05.20
+Kamerun	2077	953	64	04.05.20
+Aserbaidschan	1984	1480	26	04.05.20
+Bosnien und Herzegowina	1926	855	78	04.05.20
+Puerto Rico	1843	-	97	04.05.20
+Island	1799	1723	10	04.05.20
+Guinea	1710	450	9	04.05.20
+Estland	1703	259	55	04.05.20
+Kuba	1668	876	69	04.05.20
+Bulgarien	1652	321	78	04.05.20
+Bolivien	1594	166	76	04.05.20
+Nordmazedonien	1518	992	85	04.05.20
+Neuseeland	1487	1276	20	04.05.20
+Slowenien	1439	241	97	04.05.20
+Elfenbeinküste	1432	693	17	04.05.20
+Litauen	1419	638	46	04.05.20
+Slowakei	1413	643	25	04.05.20
+Senegal	1271	415	10	04.05.20
+Dschibuti	1116	713	2	04.05.20
+Honduras	1055	118	82	04.05.20
+Hong Kong	1040	900	4	04.05.20
+Tunesien	1013	328	42	04.05.20
+Lettland	896	348	16	04.05.20
+Kreuzfahrtschiffe	887	645	19	04.05.20
+Zypern	874	296	15	04.05.20
+Kosovo	855	403	26	04.05.20
+Kirgisistan	830	575	10	04.05.20
+Albanien	803	543	31	04.05.20
+Somalia	756	61	35	04.05.20
+Niger	755	534	37	04.05.20
+Sri Lanka	751	194	8	04.05.20
+Andorra	750	499	45	04.05.20
+Costa Rica	742	399	6	04.05.20
+Libanon	740	200	25	04.05.20
+Guatemala	703	72	17	04.05.20
+Mayotte	686	352	6	04.05.20
+Demokratische Republik Kongo	682	80	34	04.05.20
+Sudan	678	61	41	04.05.20
+Burkina Faso	672	545	46	04.05.20
+Uruguay	655	442	17	04.05.20
+Georgien	593	223	9	04.05.20
+San Marino	582	86	41	04.05.20
+Mali	580	223	29	04.05.20
+El Salvador	555	180	13	04.05.20
+Kanalinseln	544	406	41	04.05.20
+Malediven	541	18	1	04.05.20
+Kenia	490	173	24	04.05.20
+Malta	480	399	4	04.05.20
+Tansania	480	167	16	04.05.20
+Jamaika	469	38	9	04.05.20
+Jordanien	465	370	9	04.05.20
+Taiwan	438	334	6	04.05.20
+Réunion	424	300	-	04.05.20
+Paraguay	396	126	10	04.05.20
+Gabon	367	93	6	04.05.20
+Palästinensische Autonomiegebiete	362	102	2	04.05.20
+Venezuela	357	158	10	04.05.20
+Mauritius	332	316	10	04.05.20
+Isle of Man	325	271	23	04.05.20
+Montenegro	323	253	8	04.05.20
+Äquatorialguinea	315	13	3	04.05.20
+Vietnam	271	219	-	04.05.20
+Ruanda	261	128	-	04.05.20
+Guinea-Bissau	257	19	1	04.05.20
+Republik Kongo	236	26	10	04.05.20
+Tadschikistan	230	-	3	04.05.20
+Färöer	187	185	-	04.05.20
+Martinique	181	83	14	04.05.20
+Sierra Leone	178	37	9	04.05.20
+Kap Verde	175	37	2	04.05.20
+Liberia	166	58	18	04.05.20
+Myanmar	161	49	6	04.05.20
+Guadeloupe	152	98	12	04.05.20
+Madagaskar	149	99	-	04.05.20
+Guam	145	-	5	04.05.20
+Gibraltar	144	133	-	04.05.20
+Äthiopien	140	75	3	04.05.20
+Brunei	138	130	1	04.05.20
+Sambia	137	78	3	04.05.20
+Französisch-Guyana	133	100	1	04.05.20
+Togo	126	74	9	04.05.20
+Kambodscha	122	120	-	04.05.20
+Tschad	117	39	10	04.05.20
+Eswatini	116	12	1	04.05.20
+Trinidad und Tobago	116	99	8	04.05.20
+Bermuda	115	54	7	04.05.20
+Aruba	100	81	2	04.05.20
+Haiti	100	10	11	04.05.20
+Benin	96	50	2	04.05.20
+Monaco	95	78	4	04.05.20
+Uganda	89	55	-	04.05.20
+Zentralafrikanische Republik	85	10	-	04.05.20
+Bahamas	83	25	11	04.05.20
+Barbados	82	44	7	04.05.20
+Guyana	82	22	9	04.05.20
+Liechtenstein	82	55	1	04.05.20
+Mosambik	80	19	-	04.05.20
+Sint Maarten	76	44	13	04.05.20
+Cayman-Inseln	75	14	1	04.05.20
+Nepal	75	16	-	04.05.20
+Amerikanische Jungferninseln	66	-	4	04.05.20
+Libyen	63	23	3	04.05.20
+Französisch Polynesien	58	51	-	04.05.20
+Südsudan	46	-	-	04.05.20
+Macau	45	39	-	04.05.20
+Syrien	44	27	3	04.05.20
+Malawi	41	9	3	04.05.20
+Mongolei	40	12	-	04.05.20
+Eritrea	39	26	-	04.05.20
+Saint Martin	38	29	3	04.05.20
+Angola	35	11	2	04.05.20
+Simbabwe	34	5	4	04.05.20
+Antigua und Barbuda	25	15	3	04.05.20
+Osttimor	24	20	-	04.05.20
+Botswana	23	8	1	04.05.20
+São Tomé und Príncipe	23	4	3	04.05.20
+Grenada	21	13	-	04.05.20
+Laos	19	9	-	04.05.20
+Belize	18	13	2	04.05.20
+Fidschi	18	14	-	04.05.20
+St Lucia	18	15	-	04.05.20
+Neukaledonien	18	17	-	04.05.20
+Gambia	17	9	1	04.05.20
+St Vincent und die Grenadinen	17	9	-	04.05.20
+Curaçao	16	13	1	04.05.20
+Dominica	16	13	-	04.05.20
+Namibia	16	8	-	04.05.20
+Nicaragua	15	7	5	04.05.20
+St Kitts und Nevis	15	8	-	04.05.20
+Burundi	15	7	1	04.05.20
+Nördliche Marianen	14	-	2	04.05.20
+Falklandinseln (Malwinen)	13	13	-	04.05.20
+Turks- und Caicosinseln	12	6	1	04.05.20
+Jemen	12	1	2	04.05.20
+Grönland	11	11	-	04.05.20
+Montserrat	11	7	1	04.05.20
+Seychellen	11	6	-	04.05.20
+Vatikan	11	2	-	04.05.20
+Suriname	10	9	1	04.05.20
+Mauretanien	8	6	1	04.05.20
+Papua-Neuguinea	8	6	-	04.05.20
+Bhutan	7	5	-	04.05.20
+Saint Barthélemy	6	6	-	04.05.20
+Britische Jungferninseln	6	3	1	04.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	04.05.20
+Westsahara	6	5	-	04.05.20
+Anguilla	3	3	-	04.05.20
+Komoren	3	-	-	04.05.20
+Saint-Pierre und Miquelon	1	-	-	04.05.20
+USA	1199036	189791	70734	05.05.20
+Spanien	219329	123486	25613	05.05.20
+Italien	213013	85231	29315	05.05.20
+Großbritannien	194990	-	29427	05.05.20
+Deutschland	166706	135278	6993	05.05.20
+Russland	155370	19865	1451	05.05.20
+Frankreich	132967	52736	25531	05.05.20
+Türkei	129491	73285	3520	05.05.20
+Brasilien	110156	45815	7485	05.05.20
+Iran	99970	80475	6340	05.05.20
+China	82881	77888	4633	05.05.20
+Kanada	63136	26674	4183	05.05.20
+Peru	51189	15413	1444	05.05.20
+Belgien	50509	12441	8016	05.05.20
+Indien	49400	14142	1693	05.05.20
+Niederlande	41087	-	5168	05.05.20
+Ecuador	31881	3433	1569	05.05.20
+Saudiarabien	30251	5431	200	05.05.20
+Schweiz	30009	25400	1795	05.05.20
+Portugal	25702	1743	1074	05.05.20
+Mexiko	24905	15938	2271	05.05.20
+Schweden	23216	4074	2854	05.05.20
+Pakistan	22049	5801	514	05.05.20
+Chile	22016	10710	275	05.05.20
+Irland	21983	13386	1339	05.05.20
+Singapur	19410	1519	18	05.05.20
+Belarus	18350	3771	107	05.05.20
+Katar	17142	1924	12	05.05.20
+Israel	16289	10465	238	05.05.20
+Österreich	15650	13462	606	05.05.20
+Vereinigte Arabische Emirate	15192	3153	146	05.05.20
+Japan	15078	4156	536	05.05.20
+Polen	14431	4280	716	05.05.20
+Rumänien	13837	5454	841	05.05.20
+Ukraine	12697	1875	316	05.05.20
+Indonesien	12071	2197	872	05.05.20
+Bangladesch	10929	1403	183	05.05.20
+Südkorea	10804	9283	254	05.05.20
+Dänemark	9821	7296	503	05.05.20
+Philippinen	9684	1408	637	05.05.20
+Serbien	9677	1723	200	05.05.20
+Dominikanische Republik	8480	1905	354	05.05.20
+Kolumbien	7973	1807	358	05.05.20
+Norwegen	7928	32	215	05.05.20
+Tschechien	7878	3999	254	05.05.20
+Südafrika	7572	2746	148	05.05.20
+Panama	7387	726	203	05.05.20
+Ägypten	7201	1730	452	05.05.20
+Australien	6851	5890	97	05.05.20
+Malaysia	6383	4567	106	05.05.20
+Kuwait	5804	2032	40	05.05.20
+Finnland	5412	3500	246	05.05.20
+Marokko	5219	1838	181	05.05.20
+Argentinien	4887	1442	260	05.05.20
+Algerien	4838	2067	470	05.05.20
+Moldawien	4363	1544	136	05.05.20
+Kasachstan	4205	1279	29	05.05.20
+Luxemburg	3840	3412	96	05.05.20
+Bahrain	3720	1762	8	05.05.20
+Afghanistan	3224	421	95	05.05.20
+Ungarn	3065	709	363	05.05.20
+Thailand	2988	2747	54	05.05.20
+Nigeria	2802	417	93	05.05.20
+Oman	2735	858	12	05.05.20
+Ghana	2719	294	18	05.05.20
+Griechenland	2642	1374	146	05.05.20
+Armenien	2619	1111	40	05.05.20
+Irak	2431	1571	102	05.05.20
+Usbekistan	2207	1501	10	05.05.20
+Kroatien	2112	1560	83	05.05.20
+Kamerun	2104	953	64	05.05.20
+Aserbaidschan	2060	1508	26	05.05.20
+Bosnien und Herzegowina	1946	911	79	05.05.20
+Puerto Rico	1924	-	99	05.05.20
+Guinea	1811	498	10	05.05.20
+Island	1799	1733	10	05.05.20
+Estland	1711	261	55	05.05.20
+Bulgarien	1704	342	80	05.05.20
+Kuba	1685	954	69	05.05.20
+Bolivien	1681	174	82	05.05.20
+Nordmazedonien	1526	1013	86	05.05.20
+Neuseeland	1486	1302	20	05.05.20
+Slowenien	1445	244	98	05.05.20
+Elfenbeinküste	1432	693	17	05.05.20
+Litauen	1423	678	46	05.05.20
+Slowakei	1421	741	25	05.05.20
+Senegal	1329	470	11	05.05.20
+Honduras	1178	122	83	05.05.20
+Dschibuti	1120	745	2	05.05.20
+Hong Kong	1040	920	4	05.05.20
+Tunesien	1018	406	43	05.05.20
+Lettland	896	348	17	05.05.20
+Kreuzfahrtschiffe	887	645	19	05.05.20
+Zypern	878	296	15	05.05.20
+Kosovo	856	490	26	05.05.20
+Kirgisistan	843	600	11	05.05.20
+Somalia	835	75	38	05.05.20
+Albanien	820	570	31	05.05.20
+Sudan	778	70	45	05.05.20
+Sri Lanka	771	213	9	05.05.20
+Costa Rica	755	413	6	05.05.20
+Niger	755	534	37	05.05.20
+Andorra	751	514	46	05.05.20
+Libanon	741	206	25	05.05.20
+Guatemala	730	79	19	05.05.20
+Demokratische Republik Kongo	705	90	34	05.05.20
+Mayotte	686	352	6	05.05.20
+Burkina Faso	672	545	46	05.05.20
+Uruguay	657	447	17	05.05.20
+Mali	612	228	32	05.05.20
+Georgien	604	240	9	05.05.20
+San Marino	589	92	41	05.05.20
+El Salvador	587	201	13	05.05.20
+Malediven	573	20	2	05.05.20
+Kanalinseln	544	406	41	05.05.20
+Kenia	535	182	24	05.05.20
+Malta	482	403	5	05.05.20
+Tansania	480	167	16	05.05.20
+Jamaika	471	49	9	05.05.20
+Jordanien	471	375	9	05.05.20
+Taiwan	438	334	6	05.05.20
+Paraguay	431	135	10	05.05.20
+Réunion	424	300	-	05.05.20
+Guinea-Bissau	413	19	1	05.05.20
+Palästinensische Autonomiegebiete	371	127	2	05.05.20
+Gabon	367	93	6	05.05.20
+Venezuela	361	158	10	05.05.20
+Mauritius	332	319	10	05.05.20
+Isle of Man	326	271	23	05.05.20
+Montenegro	324	253	8	05.05.20
+Äquatorialguinea	315	13	3	05.05.20
+Tadschikistan	293	-	5	05.05.20
+Vietnam	271	232	-	05.05.20
+Ruanda	261	129	-	05.05.20
+Republik Kongo	236	26	10	05.05.20
+Sierra Leone	199	43	11	05.05.20
+Färöer	187	185	-	05.05.20
+Kap Verde	186	37	2	05.05.20
+Martinique	181	83	14	05.05.20
+Tschad	170	43	17	05.05.20
+Liberia	166	58	18	05.05.20
+Myanmar	161	49	6	05.05.20
+Guadeloupe	152	98	12	05.05.20
+Madagaskar	151	101	-	05.05.20
+Äthiopien	145	91	4	05.05.20
+Guam	145	-	5	05.05.20
+Gibraltar	144	133	-	05.05.20
+Brunei	138	131	1	05.05.20
+Sambia	138	92	3	05.05.20
+Französisch-Guyana	133	100	1	05.05.20
+Togo	128	74	9	05.05.20
+Kambodscha	122	120	-	05.05.20
+Eswatini	119	12	1	05.05.20
+Trinidad und Tobago	116	102	8	05.05.20
+Bermuda	115	54	7	05.05.20
+Aruba	101	82	2	05.05.20
+Haiti	100	10	11	05.05.20
+Uganda	97	55	-	05.05.20
+Benin	96	50	2	05.05.20
+Monaco	95	81	4	05.05.20
+Guyana	92	27	9	05.05.20
+Zentralafrikanische Republik	85	10	-	05.05.20
+Bahamas	83	25	11	05.05.20
+Barbados	82	47	7	05.05.20
+Liechtenstein	82	55	1	05.05.20
+Nepal	82	16	-	05.05.20
+Mosambik	81	19	-	05.05.20
+Sint Maarten	76	44	14	05.05.20
+Cayman-Inseln	75	14	1	05.05.20
+Amerikanische Jungferninseln	66	-	4	05.05.20
+Libyen	63	23	3	05.05.20
+Französisch Polynesien	58	53	-	05.05.20
+Südsudan	52	-	-	05.05.20
+Macau	45	39	-	05.05.20
+Syrien	44	27	3	05.05.20
+Mongolei	41	13	-	05.05.20
+Malawi	41	9	3	05.05.20
+Eritrea	39	30	-	05.05.20
+Saint Martin	38	29	3	05.05.20
+Angola	36	11	2	05.05.20
+Simbabwe	34	5	4	05.05.20
+Antigua und Barbuda	25	16	3	05.05.20
+Osttimor	24	20	-	05.05.20
+Botswana	23	8	1	05.05.20
+São Tomé und Príncipe	23	4	3	05.05.20
+Jemen	22	1	3	05.05.20
+Grenada	21	13	-	05.05.20
+Laos	19	9	-	05.05.20
+Belize	18	14	2	05.05.20
+Fidschi	18	14	-	05.05.20
+St Lucia	18	15	-	05.05.20
+Neukaledonien	18	17	-	05.05.20
+Gambia	17	9	1	05.05.20
+St Vincent und die Grenadinen	17	9	-	05.05.20
+Curaçao	16	13	1	05.05.20
+Dominica	16	14	-	05.05.20
+Namibia	16	8	-	05.05.20
+Nicaragua	15	7	5	05.05.20
+St Kitts und Nevis	15	8	-	05.05.20
+Burundi	15	7	1	05.05.20
+Nördliche Marianen	14	-	2	05.05.20
+Falklandinseln (Malwinen)	13	13	-	05.05.20
+Turks- und Caicosinseln	12	6	1	05.05.20
+Grönland	11	11	-	05.05.20
+Montserrat	11	7	1	05.05.20
+Seychellen	11	8	-	05.05.20
+Vatikan	11	2	-	05.05.20
+Suriname	10	9	1	05.05.20
+Mauretanien	8	6	1	05.05.20
+Papua-Neuguinea	8	8	-	05.05.20
+Bhutan	7	5	-	05.05.20
+Saint Barthélemy	6	6	-	05.05.20
+Britische Jungferninseln	6	3	1	05.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	05.05.20
+Westsahara	6	5	-	05.05.20
+Anguilla	3	3	-	05.05.20
+Komoren	3	-	-	05.05.20
+Saint-Pierre und Miquelon	1	-	-	05.05.20
+USA	1221069	189910	72699	06.05.20
+Spanien	220325	126002	25857	06.05.20
+Italien	214457	93245	29684	06.05.20
+Großbritannien	201101	-	30076	06.05.20
+Deutschland	167817	137696	7275	06.05.20
+Russland	165929	21327	1537	06.05.20
+Frankreich	137150	53972	25809	06.05.20
+Türkei	131744	78202	3584	06.05.20
+Brasilien	123809	48221	8412	06.05.20
+Iran	101650	81587	6418	06.05.20
+China	82883	77941	4633	06.05.20
+Kanada	64546	27829	4355	06.05.20
+Peru	54817	17527	1533	06.05.20
+Indien	52987	15331	1785	06.05.20
+Belgien	50781	12731	8339	06.05.20
+Niederlande	41319	-	5204	06.05.20
+Saudiarabien	31938	6783	209	06.05.20
+Ecuador	31881	3433	1618	06.05.20
+Schweiz	30060	25700	1805	06.05.20
+Portugal	26182	2076	1089	06.05.20
+Mexiko	26025	16810	2507	06.05.20
+Schweden	23918	4074	2941	06.05.20
+Pakistan	23214	6281	544	06.05.20
+Chile	23048	11189	281	06.05.20
+Irland	22248	17110	1375	06.05.20
+Singapur	20198	1634	20	06.05.20
+Belarus	19255	4388	112	06.05.20
+Katar	17972	2070	12	06.05.20
+Israel	16310	10637	239	06.05.20
+Vereinigte Arabische Emirate	15738	3359	157	06.05.20
+Österreich	15684	13639	608	06.05.20
+Japan	15253	4496	556	06.05.20
+Polen	14740	4655	733	06.05.20
+Rumänien	14107	5788	864	06.05.20
+Ukraine	13184	2097	327	06.05.20
+Indonesien	12438	2317	895	06.05.20
+Bangladesch	11719	1403	186	06.05.20
+Südkorea	10806	9333	255	06.05.20
+Philippinen	10004	1506	658	06.05.20
+Dänemark	9938	7493	506	06.05.20
+Serbien	9791	1971	203	06.05.20
+Dominikanische Republik	8807	1905	362	06.05.20
+Kolumbien	8613	2013	378	06.05.20
+Norwegen	7976	32	216	06.05.20
+Tschechien	7933	4202	262	06.05.20
+Südafrika	7808	3153	153	06.05.20
+Ägypten	7588	1815	469	06.05.20
+Panama	7523	823	210	06.05.20
+Australien	6875	5986	97	06.05.20
+Malaysia	6428	4702	107	06.05.20
+Kuwait	6289	2219	42	06.05.20
+Finnland	5573	3500	252	06.05.20
+Marokko	5408	2017	183	06.05.20
+Argentinien	5020	1524	264	06.05.20
+Algerien	4997	2197	476	06.05.20
+Moldawien	4476	1658	143	06.05.20
+Kasachstan	4422	1408	30	06.05.20
+Bahrain	3934	1860	8	06.05.20
+Luxemburg	3851	3452	98	06.05.20
+Afghanistan	3392	458	104	06.05.20
+Ungarn	3111	759	373	06.05.20
+Thailand	2989	2761	55	06.05.20
+Nigeria	2950	481	98	06.05.20
+Oman	2903	888	13	06.05.20
+Armenien	2782	1135	40	06.05.20
+Ghana	2719	294	18	06.05.20
+Griechenland	2663	1374	147	06.05.20
+Irak	2480	1602	102	06.05.20
+Kamerun	2265	1000	64	06.05.20
+Usbekistan	2233	1577	10	06.05.20
+Aserbaidschan	2127	1536	28	06.05.20
+Kroatien	2119	1601	85	06.05.20
+Bosnien und Herzegowina	1987	928	86	06.05.20
+Puerto Rico	1968	-	99	06.05.20
+Guinea	1856	597	11	06.05.20
+Bolivien	1802	187	86	06.05.20
+Island	1799	1750	10	06.05.20
+Bulgarien	1778	360	84	06.05.20
+Estland	1713	264	55	06.05.20
+Kuba	1703	1001	69	06.05.20
+Nordmazedonien	1539	1057	88	06.05.20
+Elfenbeinküste	1516	721	18	06.05.20
+Neuseeland	1488	1316	21	06.05.20
+Slowenien	1448	246	99	06.05.20
+Senegal	1433	493	12	06.05.20
+Slowakei	1429	762	25	06.05.20
+Litauen	1428	718	48	06.05.20
+Honduras	1270	122	93	06.05.20
+Dschibuti	1120	745	2	06.05.20
+Hong Kong	1040	920	4	06.05.20
+Tunesien	1022	482	43	06.05.20
+Lettland	900	464	17	06.05.20
+Kreuzfahrtschiffe	887	645	19	06.05.20
+Zypern	883	296	15	06.05.20
+Somalia	873	87	39	06.05.20
+Kirgisistan	871	614	12	06.05.20
+Kosovo	856	490	26	06.05.20
+Sudan	852	80	49	06.05.20
+Albanien	832	595	31	06.05.20
+Demokratische Republik Kongo	797	92	35	06.05.20
+Sri Lanka	797	215	9	06.05.20
+Niger	770	561	38	06.05.20
+Guatemala	763	79	19	06.05.20
+Costa Rica	761	428	6	06.05.20
+Andorra	751	521	46	06.05.20
+Libanon	750	206	25	06.05.20
+Mayotte	739	352	9	06.05.20
+Burkina Faso	729	555	48	06.05.20
+Uruguay	670	468	17	06.05.20
+El Salvador	633	219	15	06.05.20
+Mali	631	261	32	06.05.20
+Malediven	617	20	2	06.05.20
+Georgien	610	269	9	06.05.20
+San Marino	608	97	41	06.05.20
+Kenia	582	190	26	06.05.20
+Kanalinseln	545	406	40	06.05.20
+Malta	484	407	5	06.05.20
+Tansania	480	167	16	06.05.20
+Guinea-Bissau	475	24	2	06.05.20
+Jamaika	473	56	9	06.05.20
+Jordanien	473	377	9	06.05.20
+Paraguay	440	142	10	06.05.20
+Äquatorialguinea	439	13	4	06.05.20
+Taiwan	439	339	6	06.05.20
+Réunion	425	300	-	06.05.20
+Gabon	397	93	6	06.05.20
+Tadschikistan	379	-	8	06.05.20
+Palästinensische Autonomiegebiete	374	174	2	06.05.20
+Venezuela	367	164	10	06.05.20
+Mauritius	332	320	10	06.05.20
+Isle of Man	327	271	23	06.05.20
+Montenegro	324	261	8	06.05.20
+Vietnam	271	232	-	06.05.20
+Ruanda	268	130	-	06.05.20
+Republik Kongo	264	30	10	06.05.20
+Sierra Leone	225	54	14	06.05.20
+Kap Verde	191	38	2	06.05.20
+Färöer	187	185	-	06.05.20
+Martinique	182	83	14	06.05.20
+Liberia	178	75	20	06.05.20
+São Tomé und Príncipe	174	4	3	06.05.20
+Tschad	170	43	17	06.05.20
+Äthiopien	162	93	4	06.05.20
+Myanmar	161	50	6	06.05.20
+Madagaskar	158	101	-	06.05.20
+Guadeloupe	152	104	13	06.05.20
+Guam	149	-	5	06.05.20
+Sambia	146	101	4	06.05.20
+Gibraltar	144	136	-	06.05.20
+Brunei	139	131	1	06.05.20
+Französisch-Guyana	138	111	1	06.05.20
+Togo	128	77	9	06.05.20
+Eswatini	123	12	2	06.05.20
+Kambodscha	122	120	-	06.05.20
+Trinidad und Tobago	116	103	8	06.05.20
+Bermuda	115	54	7	06.05.20
+Aruba	101	89	2	06.05.20
+Haiti	101	10	12	06.05.20
+Uganda	100	55	-	06.05.20
+Nepal	99	22	-	06.05.20
+Benin	96	50	2	06.05.20
+Monaco	95	82	4	06.05.20
+Zentralafrikanische Republik	94	10	-	06.05.20
+Guyana	93	27	10	06.05.20
+Bahamas	89	26	11	06.05.20
+Barbados	82	47	7	06.05.20
+Liechtenstein	82	55	1	06.05.20
+Mosambik	81	19	-	06.05.20
+Cayman-Inseln	78	30	1	06.05.20
+Sint Maarten	76	44	14	06.05.20
+Amerikanische Jungferninseln	66	-	4	06.05.20
+Libyen	64	24	3	06.05.20
+Französisch Polynesien	60	54	-	06.05.20
+Südsudan	58	-	-	06.05.20
+Macau	45	39	-	06.05.20
+Syrien	45	27	3	06.05.20
+Malawi	43	9	3	06.05.20
+Mongolei	41	13	-	06.05.20
+Eritrea	39	30	-	06.05.20
+Saint Martin	38	29	3	06.05.20
+Angola	36	11	2	06.05.20
+Simbabwe	34	5	4	06.05.20
+Antigua und Barbuda	25	16	3	06.05.20
+Jemen	25	1	5	06.05.20
+Osttimor	24	20	-	06.05.20
+Botswana	23	8	1	06.05.20
+Grenada	21	13	-	06.05.20
+Laos	19	10	-	06.05.20
+Belize	18	16	2	06.05.20
+Fidschi	18	14	-	06.05.20
+St Lucia	18	15	-	06.05.20
+Neukaledonien	18	17	-	06.05.20
+Gambia	17	9	1	06.05.20
+St Vincent und die Grenadinen	17	9	-	06.05.20
+Curaçao	16	13	1	06.05.20
+Dominica	16	14	-	06.05.20
+Namibia	16	8	-	06.05.20
+Nicaragua	16	7	5	06.05.20
+Nördliche Marianen	15	-	2	06.05.20
+St Kitts und Nevis	15	12	-	06.05.20
+Burundi	15	7	1	06.05.20
+Falklandinseln (Malwinen)	13	13	-	06.05.20
+Vatikan	12	2	-	06.05.20
+Turks- und Caicosinseln	12	6	1	06.05.20
+Grönland	11	11	-	06.05.20
+Montserrat	11	7	1	06.05.20
+Seychellen	11	8	-	06.05.20
+Suriname	10	9	1	06.05.20
+Mauretanien	8	6	1	06.05.20
+Papua-Neuguinea	8	8	-	06.05.20
+Bhutan	7	5	-	06.05.20
+Britische Jungferninseln	7	3	1	06.05.20
+Saint Barthélemy	6	6	-	06.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	06.05.20
+Westsahara	6	5	-	06.05.20
+Komoren	4	-	1	06.05.20
+Anguilla	3	3	-	06.05.20
+Saint-Pierre und Miquelon	1	-	-	06.05.20
+USA	1250498	195036	75331	07.05.20
+Spanien	221447	128511	26070	07.05.20
+Italien	215858	96276	29958	07.05.20
+Großbritannien	206715	-	30615	07.05.20
+Russland	177160	23803	1625	07.05.20
+Deutschland	169430	140004	7392	07.05.20
+Frankreich	137779	55027	25987	07.05.20
+Türkei	133721	82984	3641	07.05.20
+Brasilien	132367	51370	9054	07.05.20
+Iran	103135	82744	6486	07.05.20
+China	82885	77960	4633	07.05.20
+Kanada	66075	28985	4534	07.05.20
+Peru	58526	18388	1627	07.05.20
+Indien	56351	16776	1889	07.05.20
+Belgien	51420	12980	8415	07.05.20
+Niederlande	41774	-	5288	07.05.20
+Saudiarabien	33731	7798	219	07.05.20
+Ecuador	30298	3433	1654	07.05.20
+Schweiz	30126	25900	1810	07.05.20
+Mexiko	27634	17781	2704	07.05.20
+Portugal	26715	2258	1105	07.05.20
+Pakistan	24644	6464	585	07.05.20
+Schweden	24623	4971	3040	07.05.20
+Chile	24581	11664	285	07.05.20
+Irland	22385	17110	1403	07.05.20
+Singapur	20939	1712	20	07.05.20
+Belarus	20168	5067	116	07.05.20
+Katar	18890	2286	12	07.05.20
+Israel	16381	10873	240	07.05.20
+Vereinigte Arabische Emirate	16240	3572	165	07.05.20
+Österreich	15752	13698	609	07.05.20
+Japan	15253	4496	556	07.05.20
+Polen	15047	4862	755	07.05.20
+Rumänien	14499	6144	888	07.05.20
+Ukraine	13691	2396	340	07.05.20
+Indonesien	12776	2381	930	07.05.20
+Bangladesch	12425	1910	199	07.05.20
+Südkorea	10810	9419	256	07.05.20
+Philippinen	10343	1618	685	07.05.20
+Dänemark	10083	7711	514	07.05.20
+Serbien	9848	2160	206	07.05.20
+Dominikanische Republik	9095	2064	373	07.05.20
+Kolumbien	8959	2148	397	07.05.20
+Südafrika	8232	3153	161	07.05.20
+Norwegen	8015	32	217	07.05.20
+Tschechien	8002	4369	269	07.05.20
+Ägypten	7981	1887	482	07.05.20
+Panama	7731	859	218	07.05.20
+Australien	6897	6035	97	07.05.20
+Kuwait	6567	2381	44	07.05.20
+Malaysia	6467	4776	107	07.05.20
+Finnland	5673	3500	255	07.05.20
+Marokko	5548	2179	183	07.05.20
+Argentinien	5208	1601	273	07.05.20
+Algerien	5182	2323	483	07.05.20
+Moldawien	4605	1747	145	07.05.20
+Kasachstan	4578	1518	30	07.05.20
+Bahrain	4199	2000	8	07.05.20
+Luxemburg	3859	3505	100	07.05.20
+Afghanistan	3563	468	106	07.05.20
+Ungarn	3150	801	383	07.05.20
+Nigeria	3145	534	103	07.05.20
+Ghana	3091	303	18	07.05.20
+Thailand	2992	2772	55	07.05.20
+Oman	2958	980	14	07.05.20
+Armenien	2884	1185	42	07.05.20
+Griechenland	2678	1374	148	07.05.20
+Irak	2543	1626	102	07.05.20
+Usbekistan	2298	1656	10	07.05.20
+Kamerun	2267	1002	108	07.05.20
+Aserbaidschan	2204	1551	28	07.05.20
+Kroatien	2125	1641	86	07.05.20
+Puerto Rico	2031	-	102	07.05.20
+Bosnien und Herzegowina	2027	954	90	07.05.20
+Guinea	1927	629	11	07.05.20
+Bolivien	1886	198	91	07.05.20
+Bulgarien	1829	384	84	07.05.20
+Island	1801	1755	10	07.05.20
+Kuba	1729	1031	73	07.05.20
+Estland	1720	273	56	07.05.20
+Nordmazedonien	1572	1079	89	07.05.20
+Elfenbeinküste	1516	721	18	07.05.20
+Senegal	1492	562	13	07.05.20
+Neuseeland	1489	1332	21	07.05.20
+Honduras	1461	132	99	07.05.20
+Slowenien	1449	247	99	07.05.20
+Slowakei	1445	806	26	07.05.20
+Litauen	1433	739	49	07.05.20
+Dschibuti	1133	799	3	07.05.20
+Hong Kong	1044	944	4	07.05.20
+Tunesien	1025	591	43	07.05.20
+Sudan	930	92	52	07.05.20
+Somalia	928	106	44	07.05.20
+Lettland	909	464	18	07.05.20
+Kirgisistan	895	637	12	07.05.20
+Zypern	889	400	15	07.05.20
+Kreuzfahrtschiffe	887	645	19	07.05.20
+Demokratische Republik Kongo	863	103	36	07.05.20
+Kosovo	861	562	27	07.05.20
+Mayotte	854	352	10	07.05.20
+Albanien	842	605	31	07.05.20
+Sri Lanka	823	232	9	07.05.20
+Guatemala	798	86	21	07.05.20
+Libanon	784	220	25	07.05.20
+Niger	781	586	42	07.05.20
+Costa Rica	765	445	6	07.05.20
+Andorra	752	526	47	07.05.20
+Burkina Faso	736	562	48	07.05.20
+El Salvador	695	245	15	07.05.20
+Uruguay	673	486	17	07.05.20
+Mali	650	271	32	07.05.20
+Malediven	648	20	3	07.05.20
+San Marino	622	106	41	07.05.20
+Georgien	615	275	9	07.05.20
+Kenia	607	197	29	07.05.20
+Kanalinseln	545	430	40	07.05.20
+Gabon	504	110	8	07.05.20
+Jordanien	494	381	9	07.05.20
+Malta	486	413	5	07.05.20
+Tansania	480	167	16	07.05.20
+Jamaika	478	57	9	07.05.20
+Guinea-Bissau	475	24	2	07.05.20
+Paraguay	462	148	10	07.05.20
+Tadschikistan	461	-	12	07.05.20
+Taiwan	440	347	6	07.05.20
+Äquatorialguinea	439	13	4	07.05.20
+Réunion	425	300	-	07.05.20
+Venezuela	379	176	10	07.05.20
+Palästinensische Autonomiegebiete	375	176	2	07.05.20
+Mauritius	332	320	10	07.05.20
+Isle of Man	327	271	23	07.05.20
+Montenegro	324	265	8	07.05.20
+Vietnam	288	233	-	07.05.20
+Ruanda	268	130	-	07.05.20
+Republik Kongo	264	30	10	07.05.20
+Tschad	253	50	27	07.05.20
+Sierra Leone	231	54	16	07.05.20
+Kap Verde	218	38	2	07.05.20
+Madagaskar	193	101	-	07.05.20
+Äthiopien	191	93	4	07.05.20
+Liberia	189	79	20	07.05.20
+Färöer	187	185	-	07.05.20
+Martinique	182	83	14	07.05.20
+Myanmar	176	62	6	07.05.20
+São Tomé und Príncipe	174	4	3	07.05.20
+Eswatini	153	12	2	07.05.20
+Sambia	153	103	4	07.05.20
+Guadeloupe	152	104	13	07.05.20
+Guam	149	-	5	07.05.20
+Gibraltar	144	141	-	07.05.20
+Brunei	141	131	1	07.05.20
+Benin	140	53	2	07.05.20
+Französisch-Guyana	138	112	1	07.05.20
+Togo	135	85	9	07.05.20
+Kambodscha	122	120	-	07.05.20
+Bermuda	118	59	7	07.05.20
+Trinidad und Tobago	116	103	8	07.05.20
+Haiti	108	15	12	07.05.20
+Aruba	101	89	3	07.05.20
+Nepal	101	22	-	07.05.20
+Uganda	100	55	-	07.05.20
+Monaco	95	82	4	07.05.20
+Zentralafrikanische Republik	94	10	-	07.05.20
+Guyana	93	27	10	07.05.20
+Bahamas	92	26	11	07.05.20
+Barbados	82	53	7	07.05.20
+Liechtenstein	82	55	1	07.05.20
+Mosambik	81	24	-	07.05.20
+Cayman-Inseln	78	30	1	07.05.20
+Sint Maarten	76	44	14	07.05.20
+Südsudan	74	-	-	07.05.20
+Amerikanische Jungferninseln	66	-	4	07.05.20
+Libyen	64	24	3	07.05.20
+Französisch Polynesien	60	55	-	07.05.20
+Macau	45	40	-	07.05.20
+Syrien	45	27	3	07.05.20
+Malawi	43	9	3	07.05.20
+Mongolei	41	13	-	07.05.20
+Eritrea	39	30	-	07.05.20
+Saint Martin	38	29	3	07.05.20
+Angola	36	11	2	07.05.20
+Simbabwe	34	5	4	07.05.20
+Antigua und Barbuda	25	16	3	07.05.20
+Jemen	25	1	5	07.05.20
+Osttimor	24	20	-	07.05.20
+Botswana	23	9	1	07.05.20
+Grenada	21	13	-	07.05.20
+Laos	19	9	-	07.05.20
+Belize	18	16	2	07.05.20
+Fidschi	18	14	-	07.05.20
+St Lucia	18	15	-	07.05.20
+Neukaledonien	18	18	-	07.05.20
+Gambia	17	9	1	07.05.20
+St Vincent und die Grenadinen	17	9	-	07.05.20
+Curaçao	16	14	1	07.05.20
+Dominica	16	14	-	07.05.20
+Namibia	16	9	-	07.05.20
+Nicaragua	16	7	5	07.05.20
+Nördliche Marianen	15	-	2	07.05.20
+St Kitts und Nevis	15	12	-	07.05.20
+Burundi	15	7	1	07.05.20
+Falklandinseln (Malwinen)	13	13	-	07.05.20
+Vatikan	12	2	-	07.05.20
+Turks- und Caicosinseln	12	6	1	07.05.20
+Grönland	11	11	-	07.05.20
+Montserrat	11	7	1	07.05.20
+Seychellen	11	8	-	07.05.20
+Suriname	10	9	1	07.05.20
+Mauretanien	8	6	1	07.05.20
+Papua-Neuguinea	8	8	-	07.05.20
+Komoren	8	-	1	07.05.20
+Bhutan	7	5	-	07.05.20
+Britische Jungferninseln	7	3	1	07.05.20
+Saint Barthélemy	6	6	-	07.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	07.05.20
+Westsahara	6	5	-	07.05.20
+Anguilla	3	3	-	07.05.20
+Saint-Pierre und Miquelon	1	-	-	07.05.20
+USA	1278706	198993	76780	08.05.20
+Spanien	222857	131148	26299	08.05.20
+Italien	217185	99023	30201	08.05.20
+Großbritannien	211364	-	31241	08.05.20
+Russland	187859	26608	1723	08.05.20
+Deutschland	170489	141936	7468	08.05.20
+Brasilien	141088	55350	9637	08.05.20
+Frankreich	138421	55782	26230	08.05.20
+Türkei	135569	86396	3689	08.05.20
+Iran	104691	83837	6541	08.05.20
+China	82887	77993	4633	08.05.20
+Kanada	67463	29961	4668	08.05.20
+Peru	61847	19012	1714	08.05.20
+Indien	59693	17883	1985	08.05.20
+Belgien	52011	13201	8521	08.05.20
+Niederlande	42093	-	5359	08.05.20
+Saudiarabien	35432	9120	229	08.05.20
+Ecuador	30298	3433	1654	08.05.20
+Schweiz	30207	26100	1823	08.05.20
+Mexiko	29616	17781	2961	08.05.20
+Portugal	27268	2422	1114	08.05.20
+Pakistan	26435	7530	599	08.05.20
+Chile	25972	12160	294	08.05.20
+Schweden	25265	4971	3175	08.05.20
+Irland	22541	17110	1429	08.05.20
+Singapur	21707	2040	20	08.05.20
+Belarus	21101	5484	121	08.05.20
+Katar	20201	2370	12	08.05.20
+Vereinigte Arabische Emirate	16793	3837	174	08.05.20
+Israel	16436	11229	245	08.05.20
+Österreich	15774	13836	614	08.05.20
+Japan	15575	5146	590	08.05.20
+Polen	15366	5184	776	08.05.20
+Rumänien	14811	6423	923	08.05.20
+Ukraine	14195	2706	361	08.05.20
+Bangladesch	13134	2101	206	08.05.20
+Indonesien	13112	2494	943	08.05.20
+Südkorea	10822	9484	256	08.05.20
+Philippinen	10463	1734	696	08.05.20
+Dänemark	10218	7927	522	08.05.20
+Serbien	9943	2453	209	08.05.20
+Kolumbien	9456	2300	407	08.05.20
+Dominikanische Republik	9376	2286	380	08.05.20
+Südafrika	8895	3153	178	08.05.20
+Ägypten	8476	1945	503	08.05.20
+Tschechien	8065	4408	271	08.05.20
+Norwegen	8055	32	218	08.05.20
+Panama	7868	886	225	08.05.20
+Kuwait	7208	2466	47	08.05.20
+Australien	6914	6079	97	08.05.20
+Malaysia	6535	4864	107	08.05.20
+Finnland	5738	4000	260	08.05.20
+Marokko	5711	2324	186	08.05.20
+Argentinien	5371	1659	285	08.05.20
+Algerien	5369	2467	488	08.05.20
+Kasachstan	4834	1631	31	08.05.20
+Moldawien	4728	1826	150	08.05.20
+Bahrain	4444	2028	8	08.05.20
+Ghana	4012	323	18	08.05.20
+Luxemburg	3871	3526	100	08.05.20
+Afghanistan	3778	472	109	08.05.20
+Nigeria	3526	601	107	08.05.20
+Ungarn	3178	865	392	08.05.20
+Oman	3112	1025	16	08.05.20
+Armenien	3029	1218	43	08.05.20
+Thailand	3000	2784	55	08.05.20
+Griechenland	2691	1374	150	08.05.20
+Irak	2603	1661	104	08.05.20
+Usbekistan	2325	1775	10	08.05.20
+Aserbaidschan	2279	1576	28	08.05.20
+Kamerun	2267	1002	108	08.05.20
+Kroatien	2161	1689	86	08.05.20
+Puerto Rico	2156	-	107	08.05.20
+Bolivien	2081	219	102	08.05.20
+Bosnien und Herzegowina	2070	960	98	08.05.20
+Guinea	2009	663	11	08.05.20
+Bulgarien	1872	401	86	08.05.20
+Island	1801	1765	10	08.05.20
+Kuba	1741	1078	74	08.05.20
+Estland	1725	704	56	08.05.20
+Honduras	1685	154	105	08.05.20
+Elfenbeinküste	1602	754	20	08.05.20
+Nordmazedonien	1586	1099	90	08.05.20
+Senegal	1551	611	13	08.05.20
+Neuseeland	1490	1347	21	08.05.20
+Slowakei	1455	905	26	08.05.20
+Slowenien	1450	252	100	08.05.20
+Litauen	1436	765	49	08.05.20
+Dschibuti	1135	824	3	08.05.20
+Sudan	1111	102	59	08.05.20
+Hong Kong	1044	960	4	08.05.20
+Tunesien	1026	600	44	08.05.20
+Lettland	928	464	18	08.05.20
+Somalia	928	106	44	08.05.20
+Kirgisistan	906	650	12	08.05.20
+Demokratische Republik Kongo	897	119	36	08.05.20
+Zypern	891	400	15	08.05.20
+Kreuzfahrtschiffe	887	645	19	08.05.20
+Kosovo	861	562	27	08.05.20
+Mayotte	854	352	10	08.05.20
+Albanien	850	620	31	08.05.20
+Guatemala	832	90	23	08.05.20
+Sri Lanka	824	240	9	08.05.20
+Libanon	796	223	26	08.05.20
+Niger	795	600	44	08.05.20
+Costa Rica	773	461	6	08.05.20
+Andorra	752	537	47	08.05.20
+Malediven	744	20	3	08.05.20
+El Salvador	742	257	16	08.05.20
+Burkina Faso	736	562	48	08.05.20
+Uruguay	684	492	17	08.05.20
+Mali	650	271	32	08.05.20
+Georgien	623	288	10	08.05.20
+San Marino	623	114	41	08.05.20
+Kenia	621	202	29	08.05.20
+Guinea-Bissau	594	25	2	08.05.20
+Paraguay	563	152	10	08.05.20
+Kanalinseln	545	445	40	08.05.20
+Tadschikistan	522	-	12	08.05.20
+Jordanien	508	385	9	08.05.20
+Gabon	504	110	8	08.05.20
+Malta	489	419	5	08.05.20
+Jamaika	488	58	9	08.05.20
+Tansania	480	167	16	08.05.20
+Taiwan	440	355	6	08.05.20
+Äquatorialguinea	439	13	4	08.05.20
+Réunion	427	354	-	08.05.20
+Venezuela	381	185	10	08.05.20
+Palästinensische Autonomiegebiete	375	226	2	08.05.20
+Mauritius	332	320	10	08.05.20
+Isle of Man	329	271	23	08.05.20
+Montenegro	324	267	8	08.05.20
+Vietnam	288	241	-	08.05.20
+Republik Kongo	274	33	10	08.05.20
+Ruanda	273	136	-	08.05.20
+Tschad	260	50	28	08.05.20
+Sierra Leone	257	54	17	08.05.20
+Benin	242	62	2	08.05.20
+Kap Verde	230	44	2	08.05.20
+São Tomé und Príncipe	208	4	5	08.05.20
+Liberia	199	79	20	08.05.20
+Äthiopien	194	95	4	08.05.20
+Madagaskar	193	101	-	08.05.20
+Färöer	187	186	-	08.05.20
+Martinique	183	83	14	08.05.20
+Myanmar	176	67	6	08.05.20
+Sambia	167	111	4	08.05.20
+Eswatini	159	12	2	08.05.20
+Guadeloupe	153	104	13	08.05.20
+Guam	149	-	5	08.05.20
+Gibraltar	146	142	-	08.05.20
+Togo	145	85	10	08.05.20
+Brunei	141	132	1	08.05.20
+Französisch-Guyana	138	112	1	08.05.20
+Haiti	129	16	12	08.05.20
+Kambodscha	122	120	-	08.05.20
+Südsudan	120	2	-	08.05.20
+Bermuda	118	61	7	08.05.20
+Trinidad und Tobago	116	103	8	08.05.20
+Nepal	102	31	-	08.05.20
+Aruba	101	89	3	08.05.20
+Uganda	101	55	-	08.05.20
+Monaco	95	82	4	08.05.20
+Zentralafrikanische Republik	94	10	-	08.05.20
+Guyana	94	34	10	08.05.20
+Bahamas	92	31	11	08.05.20
+Barbados	83	53	7	08.05.20
+Liechtenstein	82	55	1	08.05.20
+Mosambik	82	27	-	08.05.20
+Cayman-Inseln	81	41	1	08.05.20
+Sint Maarten	76	44	14	08.05.20
+Amerikanische Jungferninseln	68	-	4	08.05.20
+Libyen	64	24	3	08.05.20
+Französisch Polynesien	60	56	-	08.05.20
+Syrien	47	29	3	08.05.20
+Macau	45	40	-	08.05.20
+Angola	43	11	2	08.05.20
+Malawi	43	14	3	08.05.20
+Mongolei	42	13	-	08.05.20
+Eritrea	39	37	-	08.05.20
+Saint Martin	38	30	3	08.05.20
+Simbabwe	34	9	4	08.05.20
+Jemen	34	1	7	08.05.20
+Antigua und Barbuda	25	16	3	08.05.20
+Osttimor	24	21	-	08.05.20
+Botswana	23	9	1	08.05.20
+Grenada	21	13	-	08.05.20
+Laos	19	9	-	08.05.20
+Belize	18	16	2	08.05.20
+Fidschi	18	14	-	08.05.20
+Gambia	18	9	1	08.05.20
+St Lucia	18	17	-	08.05.20
+Neukaledonien	18	18	-	08.05.20
+St Vincent und die Grenadinen	17	9	-	08.05.20
+Curaçao	16	14	1	08.05.20
+Dominica	16	14	-	08.05.20
+Namibia	16	9	-	08.05.20
+Nicaragua	16	7	5	08.05.20
+Nördliche Marianen	15	-	2	08.05.20
+St Kitts und Nevis	15	12	-	08.05.20
+Burundi	15	7	1	08.05.20
+Falklandinseln (Malwinen)	13	13	-	08.05.20
+Vatikan	12	2	-	08.05.20
+Turks- und Caicosinseln	12	8	1	08.05.20
+Grönland	11	11	-	08.05.20
+Montserrat	11	7	1	08.05.20
+Seychellen	11	8	-	08.05.20
+Suriname	10	9	1	08.05.20
+Mauretanien	8	6	1	08.05.20
+Papua-Neuguinea	8	8	-	08.05.20
+Komoren	8	-	1	08.05.20
+Bhutan	7	5	-	08.05.20
+Britische Jungferninseln	7	3	1	08.05.20
+Saint Barthélemy	6	6	-	08.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	08.05.20
+Westsahara	6	5	-	08.05.20
+Anguilla	3	3	-	08.05.20
+Saint-Pierre und Miquelon	1	-	-	08.05.20
+USA	1302984	212534	78496	09.05.20
+Spanien	222857	131148	26299	09.05.20
+Italien	218268	103031	30395	09.05.20
+Großbritannien	215260	-	31587	09.05.20
+Russland	198676	31916	1827	09.05.20
+Deutschland	171324	143370	7549	09.05.20
+Brasilien	149101	59297	10113	09.05.20
+Frankreich	138854	56038	26310	09.05.20
+Türkei	137115	89480	3739	09.05.20
+Iran	106220	85064	6589	09.05.20
+China	82887	78049	4633	09.05.20
+Kanada	68824	31078	4818	09.05.20
+Peru	65015	20246	1814	09.05.20
+Indien	62808	19301	2101	09.05.20
+Belgien	52596	13411	8581	09.05.20
+Niederlande	42382	-	5422	09.05.20
+Saudiarabien	37136	10144	239	09.05.20
+Mexiko	31522	20314	3160	09.05.20
+Schweiz	30251	26100	1830	09.05.20
+Ecuador	29071	3433	1717	09.05.20
+Pakistan	28736	7809	636	09.05.20
+Portugal	27406	2499	1126	09.05.20
+Chile	27219	12667	304	09.05.20
+Schweden	25921	4971	3220	09.05.20
+Irland	22760	17110	1446	09.05.20
+Singapur	22460	2296	20	09.05.20
+Belarus	22052	6050	126	09.05.20
+Katar	21331	2449	13	09.05.20
+Vereinigte Arabische Emirate	17417	4295	185	09.05.20
+Israel	16454	11376	247	09.05.20
+Österreich	15833	13928	615	09.05.20
+Polen	15651	5437	785	09.05.20
+Japan	15575	5146	590	09.05.20
+Rumänien	15131	6912	939	09.05.20
+Ukraine	14710	2909	376	09.05.20
+Bangladesch	13770	2414	214	09.05.20
+Indonesien	13645	2607	959	09.05.20
+Südkorea	10840	9568	256	09.05.20
+Philippinen	10610	1842	704	09.05.20
+Dänemark	10319	8093	526	09.05.20
+Kolumbien	10051	2424	428	09.05.20
+Serbien	9943	2453	209	09.05.20
+Dominikanische Republik	9882	2584	385	09.05.20
+Südafrika	9420	3983	186	09.05.20
+Ägypten	8964	2002	514	09.05.20
+Tschechien	8089	4446	276	09.05.20
+Norwegen	8084	32	219	09.05.20
+Panama	8070	886	231	09.05.20
+Kuwait	7623	2622	49	09.05.20
+Australien	6929	6134	97	09.05.20
+Malaysia	6589	4929	108	09.05.20
+Marokko	5910	2461	186	09.05.20
+Finnland	5880	4000	265	09.05.20
+Argentinien	5611	1728	293	09.05.20
+Algerien	5558	2546	494	09.05.20
+Kasachstan	4946	1740	31	09.05.20
+Moldawien	4867	1925	161	09.05.20
+Bahrain	4774	2055	8	09.05.20
+Ghana	4263	378	22	09.05.20
+Afghanistan	4033	502	115	09.05.20
+Nigeria	3912	679	117	09.05.20
+Luxemburg	3877	3550	101	09.05.20
+Oman	3224	1068	17	09.05.20
+Ungarn	3213	904	405	09.05.20
+Armenien	3175	1267	44	09.05.20
+Thailand	3004	2787	56	09.05.20
+Griechenland	2710	1374	151	09.05.20
+Irak	2679	1702	107	09.05.20
+Aserbaidschan	2422	1620	31	09.05.20
+Usbekistan	2349	1846	10	09.05.20
+Kamerun	2274	1232	108	09.05.20
+Bolivien	2266	237	106	09.05.20
+Kroatien	2176	1726	87	09.05.20
+Puerto Rico	2173	-	108	09.05.20
+Bosnien und Herzegowina	2090	1059	102	09.05.20
+Guinea	2009	663	11	09.05.20
+Bulgarien	1921	422	90	09.05.20
+Island	1801	1773	10	09.05.20
+Honduras	1771	192	107	09.05.20
+Kuba	1754	1140	74	09.05.20
+Estland	1733	747	60	09.05.20
+Elfenbeinküste	1667	769	21	09.05.20
+Senegal	1634	643	17	09.05.20
+Nordmazedonien	1622	1112	91	09.05.20
+Neuseeland	1492	1368	21	09.05.20
+Slowakei	1455	919	26	09.05.20
+Slowenien	1454	255	101	09.05.20
+Litauen	1444	828	49	09.05.20
+Dschibuti	1189	834	3	09.05.20
+Sudan	1111	102	59	09.05.20
+Hong Kong	1044	967	4	09.05.20
+Tunesien	1030	638	45	09.05.20
+Somalia	997	110	48	09.05.20
+Mayotte	988	492	11	09.05.20
+Demokratische Republik Kongo	937	130	39	09.05.20
+Kirgisistan	931	658	12	09.05.20
+Lettland	930	464	18	09.05.20
+Guatemala	900	101	24	09.05.20
+Zypern	892	401	15	09.05.20
+Kreuzfahrtschiffe	887	645	19	09.05.20
+Kosovo	861	562	27	09.05.20
+Albanien	856	627	31	09.05.20
+Sri Lanka	847	260	9	09.05.20
+Niger	815	617	45	09.05.20
+Libanon	809	234	26	09.05.20
+Malediven	785	29	3	09.05.20
+El Salvador	784	276	17	09.05.20
+Costa Rica	780	480	6	09.05.20
+Andorra	754	545	48	09.05.20
+Burkina Faso	748	569	48	09.05.20
+Uruguay	694	506	18	09.05.20
+Mali	692	298	37	09.05.20
+Paraguay	689	155	10	09.05.20
+Kenia	649	207	30	09.05.20
+Guinea-Bissau	641	25	3	09.05.20
+San Marino	637	126	41	09.05.20
+Georgien	626	297	10	09.05.20
+Gabon	620	110	8	09.05.20
+Tadschikistan	612	-	20	09.05.20
+Kanalinseln	545	447	41	09.05.20
+Jordanien	522	387	9	09.05.20
+Tansania	509	183	21	09.05.20
+Jamaika	490	62	9	09.05.20
+Malta	490	427	5	09.05.20
+Taiwan	440	361	6	09.05.20
+Äquatorialguinea	439	13	4	09.05.20
+Réunion	431	354	-	09.05.20
+Venezuela	388	190	10	09.05.20
+Palästinensische Autonomiegebiete	375	228	2	09.05.20
+Mauritius	332	320	10	09.05.20
+Isle of Man	329	271	23	09.05.20
+Montenegro	324	274	8	09.05.20
+Tschad	322	53	31	09.05.20
+Sierra Leone	291	58	18	09.05.20
+Vietnam	288	241	-	09.05.20
+Benin	284	62	2	09.05.20
+Ruanda	280	140	-	09.05.20
+Republik Kongo	274	33	10	09.05.20
+Sambia	252	112	7	09.05.20
+Kap Verde	236	56	2	09.05.20
+Äthiopien	210	97	5	09.05.20
+São Tomé und Príncipe	208	4	5	09.05.20
+Liberia	199	79	20	09.05.20
+Madagaskar	193	101	-	09.05.20
+Färöer	187	187	-	09.05.20
+Martinique	186	83	14	09.05.20
+Myanmar	178	68	6	09.05.20
+Eswatini	163	14	2	09.05.20
+Guadeloupe	154	104	13	09.05.20
+Togo	153	87	10	09.05.20
+Guam	151	-	5	09.05.20
+Haiti	151	17	12	09.05.20
+Gibraltar	146	142	-	09.05.20
+Zentralafrikanische Republik	143	10	-	09.05.20
+Brunei	141	132	1	09.05.20
+Französisch-Guyana	141	119	1	09.05.20
+Kambodscha	122	120	-	09.05.20
+Südsudan	120	2	-	09.05.20
+Bermuda	118	64	7	09.05.20
+Trinidad und Tobago	116	104	8	09.05.20
+Uganda	116	55	-	09.05.20
+Nepal	109	31	-	09.05.20
+Aruba	101	89	3	09.05.20
+Monaco	95	82	4	09.05.20
+Guyana	94	35	10	09.05.20
+Bahamas	92	31	11	09.05.20
+Mosambik	87	34	-	09.05.20
+Barbados	83	53	7	09.05.20
+Liechtenstein	82	55	1	09.05.20
+Cayman-Inseln	81	41	1	09.05.20
+Sint Maarten	76	44	14	09.05.20
+Amerikanische Jungferninseln	68	-	4	09.05.20
+Libyen	64	24	3	09.05.20
+Französisch Polynesien	60	56	-	09.05.20
+Malawi	56	14	3	09.05.20
+Syrien	47	29	3	09.05.20
+Macau	45	40	-	09.05.20
+Angola	43	13	2	09.05.20
+Mongolei	42	14	-	09.05.20
+Eritrea	39	37	-	09.05.20
+Saint Martin	39	30	3	09.05.20
+Simbabwe	35	9	4	09.05.20
+Jemen	34	1	7	09.05.20
+Antigua und Barbuda	25	19	3	09.05.20
+Osttimor	24	21	-	09.05.20
+Botswana	23	12	1	09.05.20
+Grenada	21	13	-	09.05.20
+Gambia	20	9	1	09.05.20
+Laos	19	13	-	09.05.20
+Belize	18	16	2	09.05.20
+Fidschi	18	14	-	09.05.20
+St Lucia	18	17	-	09.05.20
+Neukaledonien	18	18	-	09.05.20
+St Vincent und die Grenadinen	17	9	-	09.05.20
+Curaçao	16	14	1	09.05.20
+Dominica	16	14	-	09.05.20
+Namibia	16	10	-	09.05.20
+Nicaragua	16	7	5	09.05.20
+Nördliche Marianen	16	-	2	09.05.20
+St Kitts und Nevis	15	13	-	09.05.20
+Burundi	15	7	1	09.05.20
+Falklandinseln (Malwinen)	13	13	-	09.05.20
+Vatikan	12	2	-	09.05.20
+Turks- und Caicosinseln	12	8	1	09.05.20
+Grönland	11	11	-	09.05.20
+Montserrat	11	8	1	09.05.20
+Seychellen	11	8	-	09.05.20
+Suriname	10	9	1	09.05.20
+Mauretanien	8	6	1	09.05.20
+Papua-Neuguinea	8	8	-	09.05.20
+Komoren	8	-	1	09.05.20
+Bhutan	7	5	-	09.05.20
+Britische Jungferninseln	7	4	1	09.05.20
+Saint Barthélemy	6	6	-	09.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	09.05.20
+Westsahara	6	5	-	09.05.20
+Anguilla	3	3	-	09.05.20
+Saint-Pierre und Miquelon	1	-	-	09.05.20
+USA	1325134	212534	79370	10.05.20
+Spanien	224350	136166	26621	10.05.20
+Großbritannien	219183	-	31855	10.05.20
+Italien	219070	105186	30560	10.05.20
+Russland	209688	34306	1915	10.05.20
+Deutschland	171780	144575	7560	10.05.20
+Brasilien	157695	61685	10757	10.05.20
+Frankreich	139063	56217	26380	10.05.20
+Türkei	138657	92691	3786	10.05.20
+Iran	107603	86143	6640	10.05.20
+China	82902	78121	4633	10.05.20
+Kanada	69959	31924	4986	10.05.20
+Peru	67307	21349	1889	10.05.20
+Indien	67161	20969	2212	10.05.20
+Belgien	53081	13642	8656	10.05.20
+Niederlande	42627	-	5440	10.05.20
+Saudiarabien	39048	11457	246	10.05.20
+Mexiko	33460	21824	3353	10.05.20
+Pakistan	30334	8063	659	10.05.20
+Schweiz	30305	26400	1830	10.05.20
+Ecuador	29559	3433	2127	10.05.20
+Chile	28866	13112	312	10.05.20
+Portugal	27581	2549	1135	10.05.20
+Schweden	26322	4971	3225	10.05.20
+Singapur	23336	2721	20	10.05.20
+Irland	22996	17110	1458	10.05.20
+Belarus	22973	6406	131	10.05.20
+Katar	22520	2753	14	10.05.20
+Vereinigte Arabische Emirate	18198	4804	198	10.05.20
+Israel	16477	11430	252	10.05.20
+Polen	15996	5698	800	10.05.20
+Österreich	15871	13991	618	10.05.20
+Japan	15663	5906	607	10.05.20
+Rumänien	15362	7051	961	10.05.20
+Ukraine	15232	3060	391	10.05.20
+Bangladesch	14657	2650	228	10.05.20
+Indonesien	14032	2698	973	10.05.20
+Südkorea	10874	9610	256	10.05.20
+Philippinen	10794	1924	719	10.05.20
+Kolumbien	10495	2569	445	10.05.20
+Dänemark	10429	8217	529	10.05.20
+Dominikanische Republik	10347	2763	388	10.05.20
+Serbien	10032	2732	215	10.05.20
+Südafrika	10015	4173	194	10.05.20
+Ägypten	9400	2075	525	10.05.20
+Kuwait	8688	2729	58	10.05.20
+Panama	8282	4501	237	10.05.20
+Tschechien	8106	4466	279	10.05.20
+Norwegen	8102	32	219	10.05.20
+Australien	6941	6163	97	10.05.20
+Malaysia	6656	5025	108	10.05.20
+Marokko	6063	2554	188	10.05.20
+Finnland	5962	4000	267	10.05.20
+Argentinien	5776	1757	300	10.05.20
+Algerien	5723	2678	502	10.05.20
+Kasachstan	5076	1901	31	10.05.20
+Bahrain	4941	2070	8	10.05.20
+Moldawien	4927	1958	169	10.05.20
+Afghanistan	4402	558	120	10.05.20
+Ghana	4263	378	22	10.05.20
+Nigeria	4151	745	128	10.05.20
+Luxemburg	3886	3586	101	10.05.20
+Oman	3399	1117	17	10.05.20
+Armenien	3313	1325	45	10.05.20
+Ungarn	3263	933	413	10.05.20
+Thailand	3009	2794	56	10.05.20
+Irak	2767	1734	109	10.05.20
+Griechenland	2716	1374	151	10.05.20
+Kamerun	2579	1465	114	10.05.20
+Aserbaidschan	2519	1650	32	10.05.20
+Bolivien	2437	258	114	10.05.20
+Usbekistan	2418	1881	10	10.05.20
+Puerto Rico	2198	-	111	10.05.20
+Kroatien	2187	1764	90	10.05.20
+Guinea	2146	714	11	10.05.20
+Bosnien und Herzegowina	2117	1106	107	10.05.20
+Bulgarien	1965	444	91	10.05.20
+Honduras	1830	195	108	10.05.20
+Island	1801	1773	10	10.05.20
+Kuba	1766	1193	77	10.05.20
+Estland	1739	750	60	10.05.20
+Senegal	1709	650	19	10.05.20
+Elfenbeinküste	1700	794	21	10.05.20
+Nordmazedonien	1642	1136	91	10.05.20
+Neuseeland	1494	1371	21	10.05.20
+Litauen	1479	828	50	10.05.20
+Slowenien	1457	256	102	10.05.20
+Slowakei	1457	941	26	10.05.20
+Dschibuti	1210	847	3	10.05.20
+Sudan	1164	119	64	10.05.20
+Somalia	1054	118	51	10.05.20
+Hong Kong	1047	982	4	10.05.20
+Tunesien	1032	660	45	10.05.20
+Mayotte	1023	492	11	10.05.20
+Kirgisistan	1002	675	12	10.05.20
+Demokratische Republik Kongo	991	136	41	10.05.20
+Guatemala	967	104	24	10.05.20
+Lettland	939	464	18	10.05.20
+Zypern	898	401	16	10.05.20
+El Salvador	889	293	17	10.05.20
+Kreuzfahrtschiffe	887	645	19	10.05.20
+Kosovo	870	653	28	10.05.20
+Albanien	868	650	31	10.05.20
+Sri Lanka	856	321	9	10.05.20
+Libanon	845	234	26	10.05.20
+Malediven	835	29	3	10.05.20
+Niger	821	624	46	10.05.20
+Costa Rica	792	501	6	10.05.20
+Andorra	755	550	48	10.05.20
+Burkina Faso	751	577	49	10.05.20
+Guinea-Bissau	726	26	3	10.05.20
+Paraguay	713	165	10	10.05.20
+Mali	704	351	38	10.05.20
+Uruguay	702	513	18	10.05.20
+Kenia	672	239	32	10.05.20
+Gabon	661	110	8	10.05.20
+Georgien	635	309	10	10.05.20
+San Marino	628	126	41	10.05.20
+Tadschikistan	612	-	20	10.05.20
+Kanalinseln	545	447	41	10.05.20
+Jordanien	540	389	9	10.05.20
+Tansania	509	183	21	10.05.20
+Jamaika	498	78	9	10.05.20
+Malta	496	433	5	10.05.20
+Taiwan	440	366	6	10.05.20
+Äquatorialguinea	439	13	4	10.05.20
+Réunion	436	354	-	10.05.20
+Venezuela	402	190	10	10.05.20
+Palästinensische Autonomiegebiete	375	263	2	10.05.20
+Mauritius	332	320	10	10.05.20
+Isle of Man	330	271	23	10.05.20
+Montenegro	324	290	9	10.05.20
+Tschad	322	53	31	10.05.20
+Benin	319	62	2	10.05.20
+Sierra Leone	307	67	18	10.05.20
+Vietnam	288	241	-	10.05.20
+Ruanda	284	140	-	10.05.20
+Republik Kongo	274	33	10	10.05.20
+Sambia	267	117	7	10.05.20
+Kap Verde	246	56	2	10.05.20
+Äthiopien	239	99	5	10.05.20
+São Tomé und Príncipe	208	4	5	10.05.20
+Liberia	199	79	20	10.05.20
+Madagaskar	193	101	-	10.05.20
+Färöer	187	187	-	10.05.20
+Martinique	186	83	14	10.05.20
+Myanmar	180	72	6	10.05.20
+Togo	173	89	11	10.05.20
+Eswatini	163	14	2	10.05.20
+Guadeloupe	154	104	13	10.05.20
+Guam	151	-	5	10.05.20
+Haiti	151	17	12	10.05.20
+Gibraltar	146	143	-	10.05.20
+Französisch-Guyana	144	122	1	10.05.20
+Zentralafrikanische Republik	143	10	-	10.05.20
+Brunei	141	134	1	10.05.20
+Kambodscha	122	120	-	10.05.20
+Südsudan	120	2	-	10.05.20
+Bermuda	118	64	7	10.05.20
+Trinidad und Tobago	116	107	8	10.05.20
+Uganda	116	55	-	10.05.20
+Nepal	110	31	-	10.05.20
+Aruba	101	89	3	10.05.20
+Guyana	97	35	10	10.05.20
+Monaco	96	82	4	10.05.20
+Bahamas	92	37	11	10.05.20
+Mosambik	91	34	-	10.05.20
+Barbados	84	57	7	10.05.20
+Liechtenstein	82	55	1	10.05.20
+Cayman-Inseln	81	41	1	10.05.20
+Sint Maarten	76	46	15	10.05.20
+Amerikanische Jungferninseln	69	-	4	10.05.20
+Libyen	64	24	3	10.05.20
+Französisch Polynesien	60	56	-	10.05.20
+Malawi	56	14	3	10.05.20
+Jemen	51	1	8	10.05.20
+Syrien	47	29	3	10.05.20
+Macau	45	41	-	10.05.20
+Angola	43	13	2	10.05.20
+Mongolei	42	14	-	10.05.20
+Eritrea	39	37	-	10.05.20
+Saint Martin	39	30	3	10.05.20
+Simbabwe	36	9	4	10.05.20
+Antigua und Barbuda	25	19	3	10.05.20
+Osttimor	24	21	-	10.05.20
+Botswana	23	12	1	10.05.20
+Grenada	21	13	-	10.05.20
+Gambia	20	9	1	10.05.20
+Laos	19	13	-	10.05.20
+Belize	18	16	2	10.05.20
+Fidschi	18	14	-	10.05.20
+St Lucia	18	17	-	10.05.20
+Neukaledonien	18	18	-	10.05.20
+St Vincent und die Grenadinen	17	9	-	10.05.20
+Curaçao	16	14	1	10.05.20
+Dominica	16	14	-	10.05.20
+Namibia	16	11	-	10.05.20
+Nicaragua	16	7	5	10.05.20
+Nördliche Marianen	16	-	2	10.05.20
+St Kitts und Nevis	15	14	-	10.05.20
+Burundi	15	7	1	10.05.20
+Falklandinseln (Malwinen)	13	13	-	10.05.20
+Vatikan	12	2	-	10.05.20
+Turks- und Caicosinseln	12	8	1	10.05.20
+Grönland	11	11	-	10.05.20
+Montserrat	11	8	1	10.05.20
+Seychellen	11	10	-	10.05.20
+Komoren	11	-	1	10.05.20
+Suriname	10	9	1	10.05.20
+Mauretanien	8	6	1	10.05.20
+Papua-Neuguinea	8	8	-	10.05.20
+Bhutan	7	5	-	10.05.20
+Britische Jungferninseln	7	4	1	10.05.20
+Saint Barthélemy	6	6	-	10.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	10.05.20
+Westsahara	6	5	-	10.05.20
+Anguilla	3	3	-	10.05.20
+Saint-Pierre und Miquelon	1	-	-	10.05.20
+USA	1342660	232733	80112	11.05.20
+Spanien	227436	137139	26744	11.05.20
+Großbritannien	223060	-	32065	11.05.20
+Russland	221344	39801	2009	11.05.20
+Italien	219814	106587	30739	11.05.20
+Deutschland	172517	145617	7653	11.05.20
+Brasilien	165475	64957	11309	11.05.20
+Türkei	139771	95780	3841	11.05.20
+Frankreich	139519	56724	26643	11.05.20
+Iran	109286	87422	6685	11.05.20
+China	82918	78144	4633	11.05.20
+Kanada	71180	32677	5113	11.05.20
+Indien	70768	22549	2294	11.05.20
+Peru	68822	22406	1961	11.05.20
+Belgien	53449	13697	8707	11.05.20
+Niederlande	42788	-	5456	11.05.20
+Saudiarabien	41014	12737	255	11.05.20
+Mexiko	35022	23100	3465	11.05.20
+Pakistan	30941	8212	667	11.05.20
+Schweiz	30344	26600	1845	11.05.20
+Chile	30063	13605	323	11.05.20
+Ecuador	29509	3433	2145	11.05.20
+Portugal	27679	2549	1144	11.05.20
+Schweden	26670	4971	3256	11.05.20
+Belarus	23906	6531	135	11.05.20
+Singapur	23822	3225	21	11.05.20
+Katar	23623	2840	14	11.05.20
+Irland	23135	17110	1467	11.05.20
+Vereinigte Arabische Emirate	18878	5381	201	11.05.20
+Israel	16506	11843	258	11.05.20
+Polen	16326	5816	811	11.05.20
+Österreich	15882	14061	620	11.05.20
+Japan	15777	8127	624	11.05.20
+Bangladesch	15691	2902	239	11.05.20
+Ukraine	15648	3288	408	11.05.20
+Rumänien	15588	7245	982	11.05.20
+Indonesien	14265	2881	991	11.05.20
+Philippinen	11086	1999	726	11.05.20
+Kolumbien	11063	2705	463	11.05.20
+Südkorea	10909	9632	256	11.05.20
+Südafrika	10652	4357	206	11.05.20
+Dominikanische Republik	10634	2870	393	11.05.20
+Dänemark	10513	8328	533	11.05.20
+Serbien	10176	3290	218	11.05.20
+Ägypten	9746	2172	533	11.05.20
+Kuwait	9286	2907	65	11.05.20
+Panama	8448	4687	244	11.05.20
+Tschechien	8157	4695	281	11.05.20
+Norwegen	8122	32	224	11.05.20
+Australien	6948	6179	97	11.05.20
+Malaysia	6726	5113	109	11.05.20
+Marokko	6281	2811	188	11.05.20
+Argentinien	6034	1837	305	11.05.20
+Finnland	5984	4000	271	11.05.20
+Algerien	5891	2841	507	11.05.20
+Bahrain	5236	2152	8	11.05.20
+Kasachstan	5207	2074	32	11.05.20
+Moldawien	4995	1980	175	11.05.20
+Ghana	4700	494	22	11.05.20
+Afghanistan	4687	558	122	11.05.20
+Nigeria	4399	778	143	11.05.20
+Luxemburg	3888	3602	101	11.05.20
+Oman	3573	1250	17	11.05.20
+Armenien	3392	1359	46	11.05.20
+Ungarn	3284	958	421	11.05.20
+Thailand	3015	2796	56	11.05.20
+Irak	2818	1790	110	11.05.20
+Griechenland	2726	1374	151	11.05.20
+Aserbaidschan	2589	1680	32	11.05.20
+Kamerun	2579	1465	114	11.05.20
+Bolivien	2556	273	118	11.05.20
+Usbekistan	2486	1988	10	11.05.20
+Puerto Rico	2256	-	113	11.05.20
+Kroatien	2196	1784	91	11.05.20
+Guinea	2146	714	11	11.05.20
+Bosnien und Herzegowina	2141	1114	113	11.05.20
+Bulgarien	1990	461	93	11.05.20
+Honduras	1972	203	108	11.05.20
+Senegal	1886	715	19	11.05.20
+Island	1801	1773	10	11.05.20
+Kuba	1783	1229	77	11.05.20
+Estland	1741	751	61	11.05.20
+Elfenbeinküste	1700	794	21	11.05.20
+Nordmazedonien	1664	1200	91	11.05.20
+Neuseeland	1497	1386	21	11.05.20
+Litauen	1485	833	50	11.05.20
+Slowenien	1460	256	102	11.05.20
+Slowakei	1457	959	26	11.05.20
+Sudan	1365	149	70	11.05.20
+Dschibuti	1210	847	3	11.05.20
+Somalia	1089	121	52	11.05.20
+Guatemala	1052	110	26	11.05.20
+Hong Kong	1047	985	4	11.05.20
+Tunesien	1032	700	45	11.05.20
+Demokratische Republik Kongo	1024	141	41	11.05.20
+Mayotte	1023	492	11	11.05.20
+Kirgisistan	1016	688	12	11.05.20
+El Salvador	958	325	18	11.05.20
+Lettland	946	464	18	11.05.20
+Zypern	901	401	16	11.05.20
+Kreuzfahrtschiffe	887	651	19	11.05.20
+Kosovo	884	655	28	11.05.20
+Albanien	872	654	31	11.05.20
+Sri Lanka	863	343	9	11.05.20
+Malediven	862	29	3	11.05.20
+Libanon	859	234	26	11.05.20
+Niger	821	624	46	11.05.20
+Costa Rica	801	517	7	11.05.20
+Andorra	755	550	48	11.05.20
+Burkina Faso	751	577	49	11.05.20
+Guinea-Bissau	726	26	3	11.05.20
+Paraguay	724	170	10	11.05.20
+Mali	712	377	39	11.05.20
+Uruguay	707	517	19	11.05.20
+Kenia	700	251	33	11.05.20
+Gabon	661	110	8	11.05.20
+Tadschikistan	661	-	21	11.05.20
+Georgien	638	317	11	11.05.20
+San Marino	628	130	41	11.05.20
+Jordanien	562	390	9	11.05.20
+Kanalinseln	546	452	41	11.05.20
+Tansania	509	183	21	11.05.20
+Malta	503	434	5	11.05.20
+Jamaika	502	90	9	11.05.20
+Taiwan	440	368	7	11.05.20
+Äquatorialguinea	439	13	4	11.05.20
+Réunion	436	354	-	11.05.20
+Venezuela	414	193	10	11.05.20
+Palästinensische Autonomiegebiete	375	301	2	11.05.20
+Sierra Leone	338	72	19	11.05.20
+Mauritius	332	322	10	11.05.20
+Isle of Man	330	271	23	11.05.20
+Montenegro	324	294	9	11.05.20
+Tschad	322	53	31	11.05.20
+Benin	319	62	2	11.05.20
+Vietnam	288	249	-	11.05.20
+Ruanda	285	150	-	11.05.20
+Republik Kongo	274	33	10	11.05.20
+Sambia	267	117	7	11.05.20
+Kap Verde	260	58	2	11.05.20
+Äthiopien	250	105	5	11.05.20
+Liberia	211	85	20	11.05.20
+São Tomé und Príncipe	208	4	5	11.05.20
+Färöer	187	187	-	11.05.20
+Martinique	187	83	14	11.05.20
+Madagaskar	186	101	-	11.05.20
+Haiti	182	17	15	11.05.20
+Togo	181	89	11	11.05.20
+Myanmar	180	74	6	11.05.20
+Eswatini	175	28	2	11.05.20
+Südsudan	156	2	-	11.05.20
+Guadeloupe	154	104	13	11.05.20
+Guam	151	-	5	11.05.20
+Gibraltar	147	143	-	11.05.20
+Französisch-Guyana	144	122	1	11.05.20
+Zentralafrikanische Republik	143	10	-	11.05.20
+Brunei	141	134	1	11.05.20
+Nepal	134	33	-	11.05.20
+Kambodscha	122	120	-	11.05.20
+Uganda	121	55	-	11.05.20
+Bermuda	119	66	8	11.05.20
+Trinidad und Tobago	116	107	8	11.05.20
+Guyana	104	35	10	11.05.20
+Mosambik	103	34	-	11.05.20
+Aruba	101	89	3	11.05.20
+Monaco	96	85	4	11.05.20
+Bahamas	92	37	11	11.05.20
+Barbados	84	57	7	11.05.20
+Liechtenstein	82	55	1	11.05.20
+Cayman-Inseln	81	41	1	11.05.20
+Sint Maarten	76	46	15	11.05.20
+Amerikanische Jungferninseln	69	-	4	11.05.20
+Libyen	64	28	3	11.05.20
+Französisch Polynesien	60	56	-	11.05.20
+Malawi	57	24	3	11.05.20
+Jemen	56	1	9	11.05.20
+Syrien	47	29	3	11.05.20
+Angola	45	13	2	11.05.20
+Macau	45	42	-	11.05.20
+Mongolei	42	14	-	11.05.20
+Eritrea	39	38	-	11.05.20
+Saint Martin	39	30	3	11.05.20
+Simbabwe	36	9	4	11.05.20
+Antigua und Barbuda	25	19	3	11.05.20
+Osttimor	24	21	-	11.05.20
+Botswana	24	12	1	11.05.20
+Gambia	22	10	1	11.05.20
+Grenada	21	13	-	11.05.20
+Laos	19	13	-	11.05.20
+Nördliche Marianen	19	-	2	11.05.20
+Belize	18	16	2	11.05.20
+Fidschi	18	14	-	11.05.20
+St Lucia	18	17	-	11.05.20
+Neukaledonien	18	18	-	11.05.20
+St Vincent und die Grenadinen	17	9	-	11.05.20
+Curaçao	16	14	1	11.05.20
+Dominica	16	15	-	11.05.20
+Namibia	16	11	-	11.05.20
+Nicaragua	16	7	5	11.05.20
+St Kitts und Nevis	15	14	-	11.05.20
+Burundi	15	7	1	11.05.20
+Falklandinseln (Malwinen)	13	13	-	11.05.20
+Vatikan	12	2	-	11.05.20
+Turks- und Caicosinseln	12	8	1	11.05.20
+Grönland	11	11	-	11.05.20
+Montserrat	11	8	1	11.05.20
+Seychellen	11	10	-	11.05.20
+Komoren	11	-	1	11.05.20
+Suriname	10	9	1	11.05.20
+Bhutan	9	5	-	11.05.20
+Mauretanien	8	6	1	11.05.20
+Papua-Neuguinea	8	8	-	11.05.20
+Britische Jungferninseln	7	4	1	11.05.20
+Saint Barthélemy	6	6	-	11.05.20
+"Bonaire, Sint Eustatius und Saba"	6	-	-	11.05.20
+Westsahara	6	5	-	11.05.20
+Anguilla	3	3	-	11.05.20
+Saint-Pierre und Miquelon	1	1	-	11.05.20

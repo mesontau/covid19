@@ -1,7 +1,7 @@
 library(covid19)
 
 
-maxDetected = 10000
+maxDetected = 30000
 
 dataPath = "data"
 plotsPath = file.path("data", "plots")
@@ -23,7 +23,7 @@ covid19::plotTimeToDouble( covid19WFiltered
                            ,plotPath = file.path(plotsPath, "cv19_time2double_World.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased", "active")
-                           ,ylims = c(0,50)
+                           ,ylims = c(0,100)
                            ,ncols = 5)
 
 covid19::plotDeltaDetected( covid19WFiltered
@@ -37,7 +37,7 @@ covid19::plotTotalCases(covid19Filtered = covid19WFiltered
                         ,plotPath = file.path(plotsPath, "cv19_totalCases_World.png")
                         ,ncols = 5)
 
-covid19::plotNewCasesVsTotalCases(covid19WFiltered %>% filter(max.detected > 20000)
+covid19::plotNewCasesVsTotalCases(covid19WFiltered %>% filter(max.detected > maxDetected)
                                   ,plotPath = file.path(plotsPath, "cv19_NewCasesVsTotalCases_World.png")
                                   ,plotType = "smooth"
                                   ,plotCurve = "detected")
@@ -53,7 +53,7 @@ covid19::plotTimeToDouble( covid19GE
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Germany.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,50)
+                           ,ylims = c(0,100)
                            ,ncols = 4)
 
 covid19::plotDeltaDetected( covid19GE
@@ -108,7 +108,7 @@ covid19::plotTimeToDouble( covid19SP
                            ,plotPath = file.path(plotsPath, "cv19_time2double_Spain.png")
                            ,plotType = c("smooth")
                            ,plotCurve = c("detected", "deceased")
-                           ,ylims = c(0,50)
+                           ,ylims = c(0,100)
                            ,ncols = 5)
 
 covid19::plotDeltaDetected( covid19SP
